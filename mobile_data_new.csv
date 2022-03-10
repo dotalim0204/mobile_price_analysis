@@ -1,4 +1,4 @@
-,mobile_brand,model_name,mobile_color,dual_sim,disp_size,os,num_cores,mp_speed,int_memory,ram,network,bluetooth,battery_power,mob_width,mob_height,mob_depth,mob_weight,resolution_width,resolution_height,f_cam_1,f_cam_2,p_cam_1,p_cam_2,p_cam_3,p_cam_4,mobile_price
+,mobile_brand,model_name,mobile_color,dual_sim,disp_size,os,num_cores,mp_speed,int_memory,ram,network_top,bluetooth,battery_power,mob_width,mob_height,mob_depth,mob_weight,resolution_width,resolution_height,f_cam_1,f_cam_2,p_cam_1,p_cam_2,p_cam_3,p_cam_4,mobile_price
 0,Realme,Narzo 10A,So White,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,160
 1,Realme,Narzo 10A,So Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,160
 2,Realme,Narzo 10A,So Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,178
