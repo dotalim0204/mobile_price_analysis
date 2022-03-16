@@ -1,290 +1,290 @@
 ,mobile_brand,model_name,mobile_color,dual_sim,disp_size,os,num_cores,mp_speed,int_memory,ram,network_top,bluetooth,battery_power,mob_width,mob_height,mob_depth,mob_weight,resolution_width,resolution_height,f_cam_1,f_cam_2,p_cam_1,p_cam_2,p_cam_3,p_cam_4,mobile_price
-0,Realme,Narzo 10A,So White,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,160
-1,Realme,Narzo 10A,So Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,160
-2,Realme,Narzo 10A,So Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,178
-3,Realme,Narzo 10A,So White,Dual Sim,16.56 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,178
-4,Realme,Narzo 10,That Green,Dual Sim,16.51 ,Android 10,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.4,164.4,9,199,1600 , 720,16,,48,8,2,2,214
-5,Realme,Narzo 10,That White,Dual Sim,16.51 ,Android 10,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.4,164.4,9,199,1600 , 720,16,,48,8,2,2,214
-6,Realme,5 Pro,Crystal Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,267
-7,Realme,5 Pro,Crystal Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,128,8,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,303
-8,Realme,5 Pro,Sparkling Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,128,8,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,303
-9,Realme,5 Pro,Sparkling Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,249
-10,Realme,X2 Pro,Lunar White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,641
-11,Realme,X2 Pro,Neptune Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,641
-12,Realme,X2 Pro,Neptune Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,128,8,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,570
-13,Realme,X2 Pro,Lunar White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,128,8,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,570
-14,Realme,2 Pro,Black Sea,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,128,8,4G VOLTE,Yes,3500,74,156.7,8.5,174,2340 , 1080,16,,16,2,,,276
-15,Realme,XT,Pearl Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.3,64,4,4G,Yes,4000,75.16,158.7,8.55,183,1080 , 2340,16,,64,8,2,2,303
-16,Realme,XT,Pearl White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.3,64,4,4G,Yes,4000,75.16,158.7,8.55,183,1080 , 2340,16,,64,8,2,2,303
-17,Realme,X50 Pro,Rust Red,Dual Sim,16.36 ,Android 10,Octa Core,2.8,128,8,5G,Yes,4200,74.24,158.96,9.65,207,1080 , 2400,32,8,64,12,8,2,748
-18,Realme,X50 Pro,Moss Green,Dual Sim,16.36 ,Android 10,Octa Core,2.8,128,8,5G,Yes,4200,74.24,158.96,9.65,207,1080 , 2400,32,8,64,12,8,2,748
-19,Realme,X50 Pro,Moss Green,Dual Sim,16.36 ,Android 10,Octa Core,2.8,256,12,5G,Yes,4200,74.24,158.96,9.65,207,1080 , 2400,32,8,64,12,8,2,837
-20,Realme,C3,Frozen Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,720 , 1600,5,,12,2,,,160
-21,Realme,6,Comet White,Dual Sim,16.51 ,Android 10,Octa Core,2.05,128,6,4G VOLTE,Yes,4300,74.8,162.1,9.6,191,2400 , 1080,16,,64,8,2,2,303
-22,Realme,6 Pro,Lightning Orange,Dual Sim,16.76 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4300,75.8,163.9,9.4,195,2400 , 1080,16,8,64,12,8,2,356
-23,Realme,6 Pro,Lightning Blue,Dual Sim,16.76 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4300,75.8,163.9,9.4,195,2400 , 1080,16,8,64,12,8,2,356
-24,Realme,C2,Diamond Black,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,125
-25,Realme,C2,Diamond Blue,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,125
-26,Realme,C2,Diamond Black,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
-27,Realme,C2,Diamond Blue,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
-28,Realme,C2,Diamond Ruby,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
-29,Realme,6,Comet Blue,Dual Sim,16.51 ,Android 10,Octa Core,2.05,128,8,4G VOLTE,Yes,4300,74.8,162.1,9.6,191,2400 , 1080,16,,64,8,2,2,320
-30,Realme,C2,Diamond Sapphire,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
-31,Realme,5 Pro,Crystal Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,249
-32,Realme,5s,Crystal Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
-33,Realme,5s,Crystal Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
-34,Realme,5s,Crystal Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
-35,Realme,5s,Crystal Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
-36,Realme,5s,Crystal Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
-37,Realme,5s,Crystal Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
-38,Realme,X2 Pro,Neptune Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
-39,Realme,X2 Pro,Lunar White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
-40,Realme,X2 Pro,Red Brick,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,659
+0,Realme,Narzo 10A,White,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,160
+1,Realme,Narzo 10A,Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,160
+2,Realme,Narzo 10A,Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,178
+3,Realme,Narzo 10A,White,Dual Sim,16.56 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,75,164.4,8.95,195,1600 , 720,5,,12,2,2,,178
+4,Realme,Narzo 10,Green,Dual Sim,16.51 ,Android 10,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.4,164.4,9,199,1600 , 720,16,,48,8,2,2,214
+5,Realme,Narzo 10,White,Dual Sim,16.51 ,Android 10,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.4,164.4,9,199,1600 , 720,16,,48,8,2,2,214
+6,Realme,5 Pro,Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,267
+7,Realme,5 Pro,Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,128,8,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,303
+8,Realme,5 Pro,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,128,8,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,303
+9,Realme,5 Pro,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,249
+10,Realme,X2 Pro,White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,641
+11,Realme,X2 Pro,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,641
+12,Realme,X2 Pro,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,128,8,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,570
+13,Realme,X2 Pro,White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,128,8,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,570
+14,Realme,2 Pro,Black,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,128,8,4G VOLTE,Yes,3500,74,156.7,8.5,174,2340 , 1080,16,,16,2,,,276
+15,Realme,XT,Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.3,64,4,4G,Yes,4000,75.16,158.7,8.55,183,1080 , 2340,16,,64,8,2,2,303
+16,Realme,XT,White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.3,64,4,4G,Yes,4000,75.16,158.7,8.55,183,1080 , 2340,16,,64,8,2,2,303
+17,Realme,X50 Pro,Red,Dual Sim,16.36 ,Android 10,Octa Core,2.8,128,8,5G,Yes,4200,74.24,158.96,9.65,207,1080 , 2400,32,8,64,12,8,2,748
+18,Realme,X50 Pro,Green,Dual Sim,16.36 ,Android 10,Octa Core,2.8,128,8,5G,Yes,4200,74.24,158.96,9.65,207,1080 , 2400,32,8,64,12,8,2,748
+19,Realme,X50 Pro,Green,Dual Sim,16.36 ,Android 10,Octa Core,2.8,256,12,5G,Yes,4200,74.24,158.96,9.65,207,1080 , 2400,32,8,64,12,8,2,837
+20,Realme,C3,Blue,Dual Sim,16.56 ,Android 10,Octa Core,2,32,3,4G VOLTE,Yes,5000,75,164.4,8.95,195,720 , 1600,5,,12,2,,,160
+21,Realme,6,White,Dual Sim,16.51 ,Android 10,Octa Core,2.05,128,6,4G VOLTE,Yes,4300,74.8,162.1,9.6,191,2400 , 1080,16,,64,8,2,2,303
+22,Realme,6 Pro,Orange,Dual Sim,16.76 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4300,75.8,163.9,9.4,195,2400 , 1080,16,8,64,12,8,2,356
+23,Realme,6 Pro,Blue,Dual Sim,16.76 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4300,75.8,163.9,9.4,195,2400 , 1080,16,8,64,12,8,2,356
+24,Realme,C2,Black,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,125
+25,Realme,C2,Blue,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,125
+26,Realme,C2,Black,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
+27,Realme,C2,Blue,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
+28,Realme,C2,Ruby,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
+29,Realme,6,Blue,Dual Sim,16.51 ,Android 10,Octa Core,2.05,128,8,4G VOLTE,Yes,4300,74.8,162.1,9.6,191,2400 , 1080,16,,64,8,2,2,320
+30,Realme,C2,Sapphire,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
+31,Realme,5 Pro,Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,249
+32,Realme,5s,Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
+33,Realme,5s,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
+34,Realme,5s,Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
+35,Realme,5s,Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
+36,Realme,5s,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
+37,Realme,5s,Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
+38,Realme,X2 Pro,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
+39,Realme,X2 Pro,White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
+40,Realme,X2 Pro,Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,659
 41,Realme,X2 Pro,Concrete,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,659
-42,Realme,6,Comet White,Dual Sim,16.51 ,Android 10,Octa Core,2.05,128,8,4G VOLTE,Yes,4300,74.8,162.1,9.6,191,2400 , 1080,16,,64,8,2,2,320
-43,Realme,C2,Diamond Sapphire,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
-44,Realme,5 Pro,Crystal Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,249
-45,Realme,5s,Crystal Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
-46,Realme,5s,Crystal Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
-47,Realme,5s,Crystal Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
-48,Realme,5s,Crystal Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
-49,Realme,5s,Crystal Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
-50,Realme,5s,Crystal Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
-51,Realme,X2 Pro,Neptune Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
-52,Realme,X2 Pro,Lunar White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
-53,Realme,X2 Pro,Red Brick,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,659
+42,Realme,6,White,Dual Sim,16.51 ,Android 10,Octa Core,2.05,128,8,4G VOLTE,Yes,4300,74.8,162.1,9.6,191,2400 , 1080,16,,64,8,2,2,320
+43,Realme,C2,Sapphire,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,133
+44,Realme,5 Pro,Green,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4035,74.2,157,8.9,184,2340 , 1080,16,,48,8,2,2,249
+45,Realme,5s,Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
+46,Realme,5s,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
+47,Realme,5s,Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
+48,Realme,5s,Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
+49,Realme,5s,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,214
+50,Realme,5s,Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,75.6,164.4,9.3,198,720 , 1600,13,,48,8,2,2,196
+51,Realme,X2 Pro,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
+52,Realme,X2 Pro,White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,64,6,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,534
+53,Realme,X2 Pro,Red,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,659
 54,Realme,X2 Pro,Concrete,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.96,256,12,4G VOLTE,Yes,4000,75.7,161,8.7,199,2400 , 1080,16,,64,13,8,2,659
-55,Realme,X2,Pearl White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,356
-56,Realme,X2,Pearl Green,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,356
-57,Realme,X2,Pearl Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,320
-58,Realme,X2,Pearl Green,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,320
-59,Realme,X2,Pearl Green,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,8,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,374
-60,Realme,X2,Pearl Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,356
-61,Realme,X2,Pearl Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,8,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,374
-62,Realme,X2,Pearl White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,8,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,374
-63,Realme,C2,Diamond Blue,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,16,2,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,116
-64,Realme,Narzo 10,That Blue,Dual Sim,16.51 ,Android 10,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.4,164.4,9,199,1600 , 720,16,,48,8,2,2,214
-65,Realme,X3,Glacier Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,16,8,64,12,8,2,463
-66,Realme,X3,Glacier Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,6,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,16,8,64,12,8,2,445
-67,Realme,X3,Arctic White,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,16,8,64,12,8,2,463
-68,Realme,X3 SuperZoom,Glacier Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,498
-69,Realme,X3 SuperZoom,Glacier Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,256,12,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,587
-70,Realme,X3 SuperZoom,Arctic White,Dual Sim,16.69 ,Android 10,Octa Core,2.96,256,12,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,587
-71,Realme,X3 SuperZoom,Arctic White,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,498
-72,Realme,3,Dynamic Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,32,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,151
-73,Realme,3,Diamond Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,4,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,169
-74,Realme,3,Radiant Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,169
-75,Realme,3,Dynamic Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,169
-76,Realme,3,Diamond Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,32,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,151
-77,Realme,3,Radiant Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,4,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,187
+55,Realme,X2,White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,356
+56,Realme,X2,Green,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,356
+57,Realme,X2,Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,320
+58,Realme,X2,Green,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,320
+59,Realme,X2,Green,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,8,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,374
+60,Realme,X2,Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,356
+61,Realme,X2,Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,8,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,374
+62,Realme,X2,White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.2,128,8,4G VOLTE,Yes,4000,75.2,158.7,8.6,182,1080 , 2340,32,,64,8,2,2,374
+63,Realme,C2,Blue,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,16,2,4G VOLTE,Yes,4000,73.7,154.3,8.5,166,1560 , 720,5,,13,2,,,116
+64,Realme,Narzo 10,Blue,Dual Sim,16.51 ,Android 10,Octa Core,2,128,4,4G VOLTE,Yes,5000,75.4,164.4,9,199,1600 , 720,16,,48,8,2,2,214
+65,Realme,X3,Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,16,8,64,12,8,2,463
+66,Realme,X3,Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,6,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,16,8,64,12,8,2,445
+67,Realme,X3,White,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,16,8,64,12,8,2,463
+68,Realme,X3 SuperZoom,Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,498
+69,Realme,X3 SuperZoom,Blue,Dual Sim,16.69 ,Android 10,Octa Core,2.96,256,12,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,587
+70,Realme,X3 SuperZoom,White,Dual Sim,16.69 ,Android 10,Octa Core,2.96,256,12,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,587
+71,Realme,X3 SuperZoom,White,Dual Sim,16.69 ,Android 10,Octa Core,2.96,128,8,4G VOLTE,Yes,4200,75.8,163.8,9.3,202,2400 , 1080,32,8,64,8,8,2,498
+72,Realme,3,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,32,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,151
+73,Realme,3,Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,4,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,169
+74,Realme,3,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,169
+75,Realme,3,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,169
+76,Realme,3,Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,32,3,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,151
+77,Realme,3,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,4,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,187
 78,Realme,3,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,2.1,64,4,4G VOLTE,Yes,4230,75.6,156.1,8.3,175,1520 , 720,13,,13,2,,,187
-79,Redmi,8,Sapphire Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
-80,Redmi,8,Onyx Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
-81,Redmi,K20 Pro,Flame Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-82,Redmi,Note 9 Pro,Aurora Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
-83,Redmi,K20 Pro,Carbon Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-84,Mi,A3,More Than White,Dual Sim,15.44 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,302
-85,Redmi,K20 Pro,Glacier Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-86,Redmi,Note 7 Pro,Space Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,303
-87,Mi,A3,Not just Blue,Dual Sim,15.44 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,267
+79,Redmi,8,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
+80,Redmi,8,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
+81,Redmi,K20 Pro,Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+82,Redmi,Note 9 Pro,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
+83,Redmi,K20 Pro,Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+84,Mi,A3,White,Dual Sim,15.44 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,302
+85,Redmi,K20 Pro,Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+86,Redmi,Note 7 Pro,Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,303
+87,Mi,A3,Blue,Dual Sim,15.44 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,267
 88,Mi,Mix 2,Black,Dual Sim,15.21 ,Android Nougat 7.1.1,Octa Core,2.5,128,6,4G VOLTE,Yes,3400,75.49,151.86,7.7,185,2160 , 1080,5,,12,,,,303
-89,Redmi,K20 Pro,Pearl White,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-90,Mi,A3,Kind of Grey,Dual Sim,15.44 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,309
-91,Redmi,K20 Pro,Carbon Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,256,8,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,534
-92,Redmi,Note 7 Pro,Nebula Red,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,249
-93,Redmi,K20,Carbon Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,64,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,392
+89,Redmi,K20 Pro,White,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+90,Mi,A3,Grey,Dual Sim,15.44 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,309
+91,Redmi,K20 Pro,Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,256,8,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,534
+92,Redmi,Note 7 Pro,Red,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,249
+93,Redmi,K20,Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,64,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,392
 94,Redmi,Y2,Gold,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,64,4,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,240
-95,Redmi,K20 Pro,Pearl White,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,256,8,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,534
-96,Redmi,K20,Glacier Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-97,Redmi,Note 6 Pro,Rose Gold,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,285
+95,Redmi,K20 Pro,White,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,256,8,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,534
+96,Redmi,K20,Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+97,Redmi,Note 6 Pro,Gold,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,285
 98,Mi,A2,Red,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
-99,Mi,10,Twilight Grey,Dual Sim,16.94 ,Android 10,Octa Core,2.84,256,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,993
-100,Mi,10,Coral Green,Dual Sim,16.94 ,Android 10,Octa Core,2.84,128,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,922
-101,Redmi,K20,Flame Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+99,Mi,10,Grey,Dual Sim,16.94 ,Android 10,Octa Core,2.84,256,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,993
+100,Mi,10,Green,Dual Sim,16.94 ,Android 10,Octa Core,2.84,128,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,922
+101,Redmi,K20,Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
 102,Mi,A2,Red,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,128,6,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,301
 103,Mi,A2,Gold,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,128,6,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,301
-104,Redmi,K20,Carbon Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-105,Mi,A2,Lake Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,128,6,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,301
+104,Redmi,K20,Black,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+105,Mi,A2,Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,128,6,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,301
 106,Redmi,Note 5 Pro,Red,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,303
-107,Redmi,K20,Pearl White,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
-109,Redmi,8,Emerald Green,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
-110,Redmi,8,Ruby Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
-111,Redmi,8,Onyx Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
-112,Mi,A3,Kind of Grey,Dual Sim,15.46 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,231
-113,Redmi,Note 9 Pro,Interstellar Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
-114,Redmi,Note 9 Pro,Aurora Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
-115,Redmi,Note 9 Pro,Aurora Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
-116,Redmi,8A Dual,Sea Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,132
-117,Redmi,8A Dual,Midnight Grey,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,133
-118,Redmi,Note 8,Moonlight White,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,199
-119,Redmi,Note 8,Neptune Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,236
-120,Redmi,Note 8,Neptune Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,195
-121,Mi,A3,Not just Blue,Dual Sim,15.46 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,231
-122,Mi,A3,More Than White,Dual Sim,15.46 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,231
-123,Redmi,Note 8,Neptune Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,201
-124,Redmi,Note 8,Space Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,180
-125,Redmi,8A Dual,Sky White,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,133
-126,Redmi,Note 7 Pro,Space Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,231
-127,Redmi,K20 Pro,Flame Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,256,8,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,534
-128,Redmi,Note 9 Pro,Glacier White,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,231
-129,Redmi,Note 9 Pro,Interstellar Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,231
-130,Redmi,8A Dual,Sea Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,133
+107,Redmi,K20,White,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,128,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,445
+109,Redmi,8,Green,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
+110,Redmi,8,Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
+111,Redmi,8,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,4,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,2,,,174
+112,Mi,A3,Grey,Dual Sim,15.46 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,231
+113,Redmi,Note 9 Pro,Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
+114,Redmi,Note 9 Pro,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
+115,Redmi,Note 9 Pro,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
+116,Redmi,8A Dual,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,132
+117,Redmi,8A Dual,Grey,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,133
+118,Redmi,Note 8,White,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,199
+119,Redmi,Note 8,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,236
+120,Redmi,Note 8,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,195
+121,Mi,A3,Blue,Dual Sim,15.46 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,231
+122,Mi,A3,White,Dual Sim,15.46 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4030,71.85,153.48,8.475,173.8,1560 , 720,32,,48,8,2,,231
+123,Redmi,Note 8,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,201
+124,Redmi,Note 8,Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,8.35,158.3,75.3,190,2280 , 1080,13,,48,8,,,180
+125,Redmi,8A Dual,White,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,133
+126,Redmi,Note 7 Pro,Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,231
+127,Redmi,K20 Pro,Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.84,256,8,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,534
+128,Redmi,Note 9 Pro,White,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,231
+129,Redmi,Note 9 Pro,Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,231
+130,Redmi,8A Dual,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,133
 131,Redmi,Note 6 Pro,Black,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,214
 132,Redmi,Note 6 Pro,Red,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,214
 133,Redmi,Note 4,Black,Dual Sim,13.97 ,Android Marshmallow 6.0.1,Octa Core,2,64,4,4G VOLTE,Yes,4100,76,151,8.4,165,1920 , 1080,5,,13,,,,231
-134,Redmi,Note 6 Pro,Rose Gold,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,214
-135,Redmi,K20,Glacier Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,64,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,392
+134,Redmi,Note 6 Pro,Gold,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,214
+135,Redmi,K20,Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,64,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,392
 136,Redmi,Note 5 Pro,Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,231
-137,Redmi,Note 7 Pro,Astro Moonlight White,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,2G,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,249
-138,Redmi,Note 9 Pro Max,Interstellar Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.5,8.8,209,2400 , 1080,32,,64,8,5,2,303
-139,Redmi,Note 9 Pro Max,Glacier White,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.5,8.8,209,2400 , 1080,32,,64,8,5,2,303
-140,Redmi,8A,Sunset Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,32,2,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,,,,125
-141,Redmi,Note 7 Pro,Space Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,196
-142,Mi,10,Coral Green,Dual Sim,16.94 ,Android 10,Octa Core,2.84,256,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,986
+137,Redmi,Note 7 Pro,White,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,2G,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,249
+138,Redmi,Note 9 Pro Max,Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.5,8.8,209,2400 , 1080,32,,64,8,5,2,303
+139,Redmi,Note 9 Pro Max,White,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.5,8.8,209,2400 , 1080,32,,64,8,5,2,303
+140,Redmi,8A,Red,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,32,2,4G VOLTE,Yes,5000,75.41,156.48,9.4,188,1520 , 720,8,,12,,,,125
+141,Redmi,Note 7 Pro,Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,196
+142,Mi,10,Green,Dual Sim,16.94 ,Android 10,Octa Core,2.84,256,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,986
 143,Redmi,Note 5 Pro,Black,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,249
-144,Redmi,Note 5 Pro,Rose Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,303
+144,Redmi,Note 5 Pro,Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,303
 145,Redmi,Note 5 Pro,Red,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,231
 146,Mi,A2,Red,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
 147,Redmi,Note 5 Pro,Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,320
-148,Mi,A2,Blue/Lake Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
+148,Mi,A2,Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
 149,Redmi,Go,Blue,Dual Sim,12.7 ,Android Oreo 8.1,Quad Core,1.4,16,1,4G VOLTE,Yes,3000,70.1,140.4,8.35,137,1280 , 720,5,,8,,,,119
 150,Redmi,Note 5 Pro,Black,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,231
-151,Redmi,Note 7S,Sapphire Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,178
-152,Redmi,Y2,Rose Gold,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,64,4,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,151
-153,Redmi,7A,Matte Black,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,119
-154,Redmi,Note 7S,Onyx Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,214
+151,Redmi,Note 7S,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,178
+152,Redmi,Y2,Gold,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,64,4,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,151
+153,Redmi,7A,Black,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,119
+154,Redmi,Note 7S,Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,214
 155,Redmi,Y2,Blue,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,32,3,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,142
 156,Redmi,Y2,Black,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,64,4,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,151
-157,Redmi,Note 7,Onyx Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,178
-158,Redmi,7A,Matte Black,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,16,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,116
-159,Redmi,6,Rose Gold,Dual Sim,13.84 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,3000,71.5,147.5,8.3,146,1440 , 720,5,,12,5,,,142
-160,Redmi,Note 7,Ruby Red,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,178
-161,Redmi,Note 7S,Ruby Red,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,214
-162,Redmi,7A,Matte Gold,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,16,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,116
+157,Redmi,Note 7,Black,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,178
+158,Redmi,7A,Black,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,16,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,116
+159,Redmi,6,Gold,Dual Sim,13.84 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,3000,71.5,147.5,8.3,146,1440 , 720,5,,12,5,,,142
+160,Redmi,Note 7,Red,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,178
+161,Redmi,Note 7S,Red,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,214
+162,Redmi,7A,Gold,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,16,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,116
 163,Redmi,Note 5 Pro,Blue,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,249
 164,Redmi,Note 5 Pro,Blue,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,231
-165,Redmi,Y3,Elegant Blue,Dual Sim,15.9 ,Android Pie 9,Octa Core,1.8,32,3,4G,Yes,4000,75.58,158.73,8.47,180,1520 , 720,32,,12,2,,,149
-166,Redmi,Y3,Prime Black,Dual Sim,15.9 ,Android Pie 9,Octa Core,1.8,32,3,4G,Yes,4000,75.58,158.73,8.47,180,1520 , 720,32,,12,2,,,144
-167,Redmi,Note 7,Sapphire Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,178
-168,Redmi,K20,Flame Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,64,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,392
-169,Redmi,Note 7S,Astro Moonlight White,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,2G,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,178
-170,Mi,10,Coral Green,Dual Sim,16.94 ,Android 10,Octa Core,2.84,256,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,986
+165,Redmi,Y3,Blue,Dual Sim,15.9 ,Android Pie 9,Octa Core,1.8,32,3,4G,Yes,4000,75.58,158.73,8.47,180,1520 , 720,32,,12,2,,,149
+166,Redmi,Y3,Black,Dual Sim,15.9 ,Android Pie 9,Octa Core,1.8,32,3,4G,Yes,4000,75.58,158.73,8.47,180,1520 , 720,32,,12,2,,,144
+167,Redmi,Note 7,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,178
+168,Redmi,K20,Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2.2,64,6,4G VOLTE,Yes,4000,74.3,156.7,8.8,191,2340 , 1080,20,,48,13,8,,392
+169,Redmi,Note 7S,White,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,32,3,2G,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,178
+170,Mi,10,Green,Dual Sim,16.94 ,Android 10,Octa Core,2.84,256,8,5G,Yes,4780,74.8,162.58,8.96,209,2340 , 1080,20,,108,,,,986
 171,Redmi,Note 5 Pro,Black,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,249
-172,Redmi,Note 5 Pro,Rose Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,303
+172,Redmi,Note 5 Pro,Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,303
 173,Redmi,Note 5 Pro,Red,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,231
 174,Mi,A2,Red,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
 175,Redmi,Note 5 Pro,Gold,Dual Sim,15.21 ,Android Nougat 7.1.2,Octa Core,1.8,64,6,4G VOLTE,Yes,4000,75.35,158.58,8.05,181,2160 , 1080,20,,12,5,,,320
-176,Mi,A2,Blue/Lake Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
+176,Mi,A2,Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
 177,Redmi,Go,Blue,Dual Sim,12.7 ,Android Oreo 8.1,Quad Core,1.4,16,1,4G VOLTE,Yes,3000,70.1,140.4,8.35,137,1280 , 720,5,,8,,,,119
 178,Redmi,Note 4,Gold,Dual Sim,13.97 ,Android Marshmallow 6.0.1,Octa Core,2,64,4,4G VOLTE,Yes,4100,76,151,8.4,165,1920 , 1080,5,,13,,,,249
-179,Redmi,8A Dual,Sky White,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,151
-180,Redmi,8A Dual,Midnight Grey,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,151
-181,Redmi,8A Dual,Sky White,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,3,4G VOLTE,Yes,5000,75.41,156.48,9.4,191,1520 , 720,8,,13,2,,,178
-182,Redmi,8A Dual,Sea Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,3,4G VOLTE,Yes,5000,75.41,156.48,9.4,191,1520 , 720,8,,13,2,,,178
+179,Redmi,8A Dual,White,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,151
+180,Redmi,8A Dual,Grey,Dual Sim,15.8 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,5000,9,175,92,186,1520 , 720,8,,13,2,,,151
+181,Redmi,8A Dual,White,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,3,4G VOLTE,Yes,5000,75.41,156.48,9.4,191,1520 , 720,8,,13,2,,,178
+182,Redmi,8A Dual,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,3,4G VOLTE,Yes,5000,75.41,156.48,9.4,191,1520 , 720,8,,13,2,,,178
 183,Redmi,Note 6 Pro,Black,Dual Sim,15.9 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G VOLTE,Yes,4000,76.4,157.9,8.26,181,2280 , 1080,20,2,12,5,,,202
-184,Redmi,Note 7 Pro,Neptune Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,303
-185,Redmi,8A Dual,Midnight Grey,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,3,4G VOLTE,Yes,5000,75.41,156.48,9.4,191,1520 , 720,8,,13,2,,,178
-186,Redmi,Note 9 Pro,Glacier White,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,356
-187,Redmi,Note 7,Sapphire Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,263
-188,Mi,A2,Rose Gold,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
-189,Redmi,7A,Matte Gold,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,119
-190,Redmi,Y2,Rose Gold,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,32,3,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,155
+184,Redmi,Note 7 Pro,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,48,5,,,303
+185,Redmi,8A Dual,Grey,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.95,64,3,4G VOLTE,Yes,5000,75.41,156.48,9.4,191,1520 , 720,8,,13,2,,,178
+186,Redmi,Note 9 Pro,White,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,5020,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,356
+187,Redmi,Note 7,Blue,Dual Sim,16.0 ,Android Pie 9,Octa Core,2.2,64,4,4G VOLTE,Yes,4000,75.21,159.21,8.1,186,2340 , 1080,13,,12,2,,,263
+188,Mi,A2,Gold,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3010,75.4,158.7,7.3,168,2160 , 1080,20,,20,12,,,249
+189,Redmi,7A,Gold,Dual Sim,13.84 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,70.4,146.3,9.55,165,1440 , 720,5,,12,,,,119
+190,Redmi,Y2,Gold,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,32,3,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,155
 191,Redmi,Y1,Grey,Dual Sim,13.97 ,Android Nougat 7.1.2,Octa Core,1.4,64,4,4G,Yes,3080,76.2,153,7.7,154,1280 , 720,16,,13,,,,206
-192,Redmi,Y2,Dark Grey,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,32,3,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,142
-193,Vivo,Y12,Burgundy Red,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,2,8,,176
-194,Vivo,U10,Thunder Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,196
-195,Vivo,Y11,Mineral Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,1.95,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,2,,,193
-196,Vivo,Z1x,Fusion Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,64,6,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,302
-197,Vivo,Z1x,Phantom Purple,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,64,6,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,302
-198,Vivo,Z1x,Fusion Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,128,8,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,338
-199,Vivo,Z1x,Phantom Purple,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,128,8,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,338
-200,Vivo,Y15,Burgundy Red,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,16,,13,2,8,,231
-201,Vivo,Y11,Agate Red,Dual Sim,16.13 ,Android Pie 9,Octa Core,1.95,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,2,,,193
-202,Vivo,S1 Pro,Mystic Black,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,4500,75.19,159.25,8.68,186.7,1080 , 2340,32,,48,8,2,2,356
-203,Vivo,S1 Pro,Jazzy Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,4500,75.19,159.25,8.68,186.7,1080 , 2340,32,,48,8,2,2,356
-204,Vivo,S1 Pro,Dreamy White,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,4500,75.19,159.25,8.68,186.7,1080 , 2340,32,,48,8,2,2,356
-205,Vivo,Y91i,Fusion Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,160
-206,Vivo,Y91i,Ocean Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,213
-207,Vivo,Y50,Pearl White,Dual Sim,16.59 ,Android 10,Octa Core,2,128,8,4G VOLTE,Yes,5000,76.46,162.04,9.11,197,2340 , 1080,16,,13,8,2,2,320
-208,Vivo,Y50,Iris Blue,Dual Sim,16.59 ,Android 10,Octa Core,2,128,8,4G VOLTE,Yes,5000,76.46,162.04,9.11,197,2340 , 1080,16,,13,8,2,2,320
-209,Vivo,Z1Pro,Sonic Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,320
-210,Vivo,Z1Pro,Sonic Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,249
-211,Vivo,Z1Pro,Sonic Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,320
-212,Vivo,Y91i,Ocean Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,155
-213,Vivo,Y91i,Fusion Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,159
-214,Vivo,Y19,Magnetic Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2,128,4,4G,Yes,5000,76.47,162.15,8.89,193,1080 , 2340,16,,16,8,2,,291
-215,Vivo,V19,Mystic Silver,Dual Sim,16.36 ,Android 10,Octa Core,2.3,256,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,569
-216,Vivo,V19,Mystic Silver,Dual Sim,16.36 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,498
-217,Vivo,V19,Piano Black,Dual Sim,16.36 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,498
-218,Vivo,V19,Piano Black,Dual Sim,16.36 ,Android 10,Octa Core,2.3,256,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,569
-219,Vivo,V17,Glacier ice white,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4500,74.17,159.01,8.54,176,2400 , 1080,32,,48,8,2,2,445
-220,Vivo,V17,Midnight Ocean Black,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4500,74.17,159.01,8.54,176,2400 , 1080,32,,48,8,2,2,445
-221,Vivo,U10,Electric Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,213
-222,Vivo,S1,Skyline Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,64,6,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,338
-223,Vivo,S1,Skyline Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,4,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,302
-224,Vivo,S1,Skyline Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,6,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,356
-225,Vivo,S1,Diamond Black,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,4,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,302
-226,Vivo,S1,Diamond Black,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,6,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,356
-227,Vivo,Y91i,Fusion Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,16,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,164
-228,Vivo,V15 Pro,Topaz Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,3700,74.71,157.25,8.21,185,2340 , 1080,32,,48,5,8,,399
-229,Vivo,Y17,Mystic Purple,Dual Sim,16.13 ,Android Pie 9,Octa Core,2.3,128,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,20,,13,2,8,,249
-230,Vivo,V15 Pro,Ruby Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,3700,74.71,157.25,8.21,185,2340 , 1080,32,,48,8,5,,376
-231,Vivo,V17Pro,Midnight Ocean Black,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4100,74.7,159,9.8,201.8,2400 , 1080,32,8,48,13,8,2,525
-232,Vivo,V17Pro,Glacier Ice White,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4100,74.7,159,9.8,201.8,2400 , 1080,32,8,48,13,8,2,525
-233,Vivo,U10,Thunder Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,205
-234,Vivo,V15 Pro,Topaz Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,3700,74.71,157.25,8.21,185,2340 , 1080,32,,48,8,5,,507
-235,Vivo,V11 Pro,Starry Night Black,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,6,4G VOLTE,Yes,3400,75.08,157.91,7.9,156,2340 , 1080,25,,12,5,,,516
+192,Redmi,Y2,Grey,Dual Sim,15.21 ,Android Oreo 8,Octa Core,2,32,3,4G,Yes,3080,77.26,160.73,8.1,168,1440 , 720,16,,12,5,,,142
+193,Vivo,Y12,Red,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,2,8,,176
+194,Vivo,U10,Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,196
+195,Vivo,Y11,Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,1.95,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,2,,,193
+196,Vivo,Z1x,Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,64,6,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,302
+197,Vivo,Z1x,Purple,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,64,6,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,302
+198,Vivo,Z1x,Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,128,8,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,338
+199,Vivo,Z1x,Purple,Dual Sim,16.21 ,Android Pie 9,Octa Core,2.3,128,8,4G,Yes,4500,75.23,159.53,8.13,189.6,2340 , 1080,32,,48,8,2,,338
+200,Vivo,Y15,Red,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,16,,13,2,8,,231
+201,Vivo,Y11,Red,Dual Sim,16.13 ,Android Pie 9,Octa Core,1.95,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,2,,,193
+202,Vivo,S1 Pro,Black,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,4500,75.19,159.25,8.68,186.7,1080 , 2340,32,,48,8,2,2,356
+203,Vivo,S1 Pro,Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,4500,75.19,159.25,8.68,186.7,1080 , 2340,32,,48,8,2,2,356
+204,Vivo,S1 Pro,White,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,4500,75.19,159.25,8.68,186.7,1080 , 2340,32,,48,8,2,2,356
+205,Vivo,Y91i,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,160
+206,Vivo,Y91i,Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,213
+207,Vivo,Y50,White,Dual Sim,16.59 ,Android 10,Octa Core,2,128,8,4G VOLTE,Yes,5000,76.46,162.04,9.11,197,2340 , 1080,16,,13,8,2,2,320
+208,Vivo,Y50,Blue,Dual Sim,16.59 ,Android 10,Octa Core,2,128,8,4G VOLTE,Yes,5000,76.46,162.04,9.11,197,2340 , 1080,16,,13,8,2,2,320
+209,Vivo,Z1Pro,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,320
+210,Vivo,Z1Pro,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,249
+211,Vivo,Z1Pro,Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,320
+212,Vivo,Y91i,Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,155
+213,Vivo,Y91i,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,159
+214,Vivo,Y19,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2,128,4,4G,Yes,5000,76.47,162.15,8.89,193,1080 , 2340,16,,16,8,2,,291
+215,Vivo,V19,Silver,Dual Sim,16.36 ,Android 10,Octa Core,2.3,256,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,569
+216,Vivo,V19,Silver,Dual Sim,16.36 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,498
+217,Vivo,V19,Black,Dual Sim,16.36 ,Android 10,Octa Core,2.3,128,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,498
+218,Vivo,V19,Black,Dual Sim,16.36 ,Android 10,Octa Core,2.3,256,8,4G VOLTE,Yes,4500,75.04,159.64,8.5,186.5,2400 , 1080,32,8,48,8,2,2,569
+219,Vivo,V17,white,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4500,74.17,159.01,8.54,176,2400 , 1080,32,,48,8,2,2,445
+220,Vivo,V17,Black,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4500,74.17,159.01,8.54,176,2400 , 1080,32,,48,8,2,2,445
+221,Vivo,U10,Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,213
+222,Vivo,S1,Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,64,6,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,338
+223,Vivo,S1,Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,4,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,302
+224,Vivo,S1,Blue,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,6,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,356
+225,Vivo,S1,Black,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,4,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,302
+226,Vivo,S1,Black,Dual Sim,16.21 ,Android Pie 9,Octa Core,2,128,6,4G,Yes,4500,75.23,159.53,8.13,179,1080 , 2340,32,,16,8,2,,356
+227,Vivo,Y91i,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,16,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,164
+228,Vivo,V15 Pro,Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,3700,74.71,157.25,8.21,185,2340 , 1080,32,,48,5,8,,399
+229,Vivo,Y17,Purple,Dual Sim,16.13 ,Android Pie 9,Octa Core,2.3,128,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,20,,13,2,8,,249
+230,Vivo,V15 Pro,Red,Dual Sim,16.23 ,Android Pie 9,Octa Core,2,128,6,4G VOLTE,Yes,3700,74.71,157.25,8.21,185,2340 , 1080,32,,48,8,5,,376
+231,Vivo,V17Pro,Black,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4100,74.7,159,9.8,201.8,2400 , 1080,32,8,48,13,8,2,525
+232,Vivo,V17Pro,White,Dual Sim,16.36 ,Android Pie 9,Octa Core,2,128,8,4G,Yes,4100,74.7,159,9.8,201.8,2400 , 1080,32,8,48,13,8,2,525
+233,Vivo,U10,Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,205
+234,Vivo,V15 Pro,Blue,Dual Sim,16.23 ,Android Pie 9,Octa Core,2,128,8,4G VOLTE,Yes,3700,74.71,157.25,8.21,185,2340 , 1080,32,,48,8,5,,507
+235,Vivo,V11 Pro,Black,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,6,4G VOLTE,Yes,3400,75.08,157.91,7.9,156,2340 , 1080,25,,12,5,,,516
 236,Vivo,NEX,Black,Dual Sim,16.74 ,Android Oreo 8.1,Octa Core,2.8,128,8,4G VOLTE,Yes,4000,77,162,7.98,199,2316 , 1080,8,,12,5,,,534
 237,Vivo,Y81,Black,Dual Sim,15.49 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,3260,75,155.06,7.77,148,1520 , 720,5,,13,,,,249
 238,Vivo,V9 Youth,Black,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,16,2,,,302
-239,Vivo,V15,Frozen Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,64,6,4G VOLTE,Yes,4000,75.93,161.97,8.54,189.5,2340 , 1080,32,,12,5,8,,376
-240,Vivo,Y93,Starry Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,276
-241,Vivo,Y93,Starry Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,64,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,267
-242,Vivo,Y91,Ocean Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,213
-243,Vivo,V7,Matte Black,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,336
-244,Vivo,V7,Energetic Blue,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,285
+239,Vivo,V15,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,64,6,4G VOLTE,Yes,4000,75.93,161.97,8.54,189.5,2340 , 1080,32,,12,5,8,,376
+240,Vivo,Y93,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,276
+241,Vivo,Y93,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,64,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,267
+242,Vivo,Y91,Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,213
+243,Vivo,V7,Black,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,336
+244,Vivo,V7,Blue,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,285
 245,Vivo,Y83,Gold,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,3260,75.24,155.21,7.7,151,1520 , 720,8,,13,,,,214
 246,Vivo,V9,Gold,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,24,,16,5,,,427
-247,Vivo,Y71i,Matte Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,2,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,8,,,,158
-248,Vivo,Y93,Nebula Purple,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,285
-249,Vivo,U10,Electric Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,196
-250,Vivo,Z1Pro,Sonic Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
-251,Vivo,Z1Pro,Sonic Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,249
-252,Vivo,Z1Pro,Sonic Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
-253,Vivo,U10,Electric Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
-254,Vivo,U10,Thunder Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
+247,Vivo,Y71i,Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,2,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,8,,,,158
+248,Vivo,Y93,Purple,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,285
+249,Vivo,U10,Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,196
+250,Vivo,Z1Pro,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
+251,Vivo,Z1Pro,Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,249
+252,Vivo,Z1Pro,Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
+253,Vivo,U10,Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
+254,Vivo,U10,Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
 255,Vivo,V9 Pro,Black,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,13,2,,,320
-256,Vivo,V9 Pro,Nebula Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,13,2,,,320
+256,Vivo,V9 Pro,Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,13,2,,,320
 257,Vivo,Y81,Gold,Dual Sim,15.49 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,3260,75,155.06,7.77,148,1520 , 720,5,,13,,,,205
 258,Vivo,V9 Youth,Gold,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,16,2,,,320
-259,Vivo,Y91,Starry Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,178
+259,Vivo,Y91,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,178
 260,Vivo,Y71,Gold,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,3,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,13,,,,194
-261,Vivo,Y71,Matte Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,32,4,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,13,,,,214
-262,Vivo,V7+,Energetic Blue,Dual Sim,15.21 ,Android Nougat 7.1,Octa Core,1.8,64,4,4G VOLTE,Yes,3225,75.74,155.87,7.7,160,1440 , 720,24,,16,,,,397
-263,Vivo,Y55S,Matte Black,Dual Sim,13.21 ,Android Marshmallow 6,Quad Core,1.4,16,3,4G VOLTE,Yes,2730,72.9,149.9,7.5,142,1280 , 720,5,,13,,,,249
+261,Vivo,Y71,Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,32,4,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,13,,,,214
+262,Vivo,V7+,Blue,Dual Sim,15.21 ,Android Nougat 7.1,Octa Core,1.8,64,4,4G VOLTE,Yes,3225,75.74,155.87,7.7,160,1440 , 720,24,,16,,,,397
+263,Vivo,Y55S,Black,Dual Sim,13.21 ,Android Marshmallow 6,Quad Core,1.4,16,3,4G VOLTE,Yes,2730,72.9,149.9,7.5,142,1280 , 720,5,,13,,,,249
 264,Vivo,Y55S,Grey,Dual Sim,13.21 ,Android Marshmallow 6,Quad Core,1.4,16,3,4G VOLTE,Yes,2730,72.9,149.9,7.5,142,1280 , 720,5,,13,,,,241
 265,Vivo,Y81i,Gold,Dual Sim,15.8 ,Android Oreo 8.1,Quad Core,2,16,2,4G VOLTE,Yes,3260,75,155.06,7.77,143,1520 , 720,5,,13,,,,213
-266,Vivo,Y93,Starry Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,276
-267,Vivo,Y93,Starry Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,64,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,267
-268,Vivo,Y91,Ocean Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,213
-269,Vivo,V7,Matte Black,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,336
-270,Vivo,V7,Energetic Blue,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,285
+266,Vivo,Y93,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,276
+267,Vivo,Y93,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,64,3,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,267
+268,Vivo,Y91,Blue,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,213
+269,Vivo,V7,Black,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,336
+270,Vivo,V7,Blue,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,1.8,32,4,4G VOLTE,Yes,3000,72.8,149.3,7.9,139,1440 , 720,24,,16,,,,285
 271,Vivo,Y83,Gold,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,3260,75.24,155.21,7.7,151,1520 , 720,8,,13,,,,214
 272,Vivo,V9,Gold,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2.2,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,24,,16,5,,,427
-273,Vivo,Y71i,Matte Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,2,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,8,,,,158
-274,Vivo,Y93,Nebula Purple,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,285
-275,Vivo,Z1Pro,Sonic Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,249
-276,Vivo,Z1Pro,Sonic Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
-277,Vivo,Z1Pro,Sonic Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
-278,Vivo,U10,Electric Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
-279,Vivo,U10,Thunder Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,205
-280,Vivo,U10,Thunder Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
+273,Vivo,Y71i,Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,2,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,8,,,,158
+274,Vivo,Y93,Purple,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,285
+275,Vivo,Z1Pro,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,249
+276,Vivo,Z1Pro,Black,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
+277,Vivo,Z1Pro,Blue,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.3,64,6,4G VOLTE,Yes,5000,77.33,162.39,8.85,201,2340 , 1080,32,,16,2,8,,267
+278,Vivo,U10,Blue,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
+279,Vivo,U10,Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,3,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,205
+280,Vivo,U10,Black,Dual Sim,16.13 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.77,159.43,8.92,190.5,720 , 1544,8,,13,8,2,,231
 281,Vivo,V9 Pro,Black,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,13,2,,,320
-282,Vivo,V9 Pro,Nebula Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,13,2,,,320
-283,Vivo,Y71,Matte Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,3,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,13,,,,194
+282,Vivo,V9 Pro,Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3260,75.03,154.81,7.89,150,2280 , 1080,16,,13,2,,,320
+283,Vivo,Y71,Black,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,16,3,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,13,,,,194
 284,Vivo,Y71,Gold,Dual Sim,15.24 ,Android Oreo 8.1,Quad Core,1.4,32,4,4G VOLTE,Yes,3360,75.74,155.87,7.8,150,1440 , 720,5,,13,,,,214
 285,Vivo,Y91i,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,5,,13,,,,160
-286,Vivo,Y91,Starry Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,160
+286,Vivo,Y91,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,2,4G VOLTE,Yes,4030,75.09,155.11,8.28,163.5,1520 , 720,8,,13,2,,,160
 287,Vivo,Y69,Gold,Dual Sim,13.97 ,Android Nougat 7,Octa Core,1.5,32,3,4G VOLTE,Yes,3000,75.7,154.6,7.7,162.8,1280 , 720,16,,13,,,,265
 288,Vivo,Y81,Black,Dual Sim,15.8 ,Android Oreo 8.1,Octa Core,2,32,4,4G VOLTE,Yes,3260,75,155.06,7.77,148,1520 , 720,5,,13,,,,259
 289,Samsung,Galaxy M30S,Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.3,128,4,4G VOLTE,Yes,6000,159,9,75,186,2340 , 1080,16,,48,8,,,311
@@ -294,166 +294,166 @@
 293,Samsung,Galaxy A21s,White,Dual Sim,16.51 ,Android 10,Octa Core,2,64,6,4G,Yes,5000,75.3,163.6,8.9,191,1600 , 720,13,,48,8,2,2,329
 294,Samsung,Galaxy A21s,Black,Dual Sim,16.51 ,Android 10,Octa Core,2,64,6,4G,Yes,5000,75.3,163.6,8.9,191,1600 , 720,13,,48,8,2,2,329
 295,Samsung,Galaxy A21s,White,Dual Sim,16.51 ,Android 10,Octa Core,2,64,4,4G,Yes,5000,75.3,163.6,8.9,191,1600 , 720,13,,48,8,2,2,311
-296,Samsung,Galaxy M21,Midnight Blue,Dual Sim,16.26 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,6000,75,159,9,188,2340 , 1080,20,,48,8,5,,285
-297,Samsung,Galaxy M21,Raven Black,Dual Sim,16.26 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,6000,75,159,9,188,2340 , 1080,20,,48,8,5,,285
+296,Samsung,Galaxy M21,Blue,Dual Sim,16.26 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,6000,75,159,9,188,2340 , 1080,20,,48,8,5,,285
+297,Samsung,Galaxy M21,Black,Dual Sim,16.26 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,6000,75,159,9,188,2340 , 1080,20,,48,8,5,,285
 298,Samsung,Galaxy J2 Core,Black,Dual Sim,12.7 ,Android Oreo 8.1,Quad Core,1.4,16,1,4G,Yes,2600,72.1,143.4,8.95,154,960 , 540,5,,8,,,,112
-299,Samsung,Galaxy M31,Ocean Blue,Dual Sim,16.26 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,6000,9,159,75,191,2340 , 1080,32,,64,8,5,5,354
-300,Samsung,Galaxy S10 Lite,Prism Blue,Dual Sim,17.02 ,Android 10,Octa Core,2.8,512,8,4G VOLTE,Yes,4500,75.6,162.5,8.1,187,1080 , 2400,32,,48,12,5,,854
-301,Samsung,Galaxy S10 Lite,Prism Black,Dual Sim,17.02 ,Android 10,Octa Core,2.8,512,8,4G VOLTE,Yes,4500,75.6,162.5,8.1,187,1080 , 2400,32,,48,12,5,,854
-302,Samsung,Galaxy J2-2017,Metallic gold,Dual Sim,11.94 ,Android Lollipop 5.4.1,Quad Core,1.3,8,1,4G,Yes,2000,69,136.5,8.4,130,540 , 960,2,,5,,,,107
+299,Samsung,Galaxy M31,Blue,Dual Sim,16.26 ,Android 10,Octa Core,2.3,128,6,4G VOLTE,Yes,6000,9,159,75,191,2340 , 1080,32,,64,8,5,5,354
+300,Samsung,Galaxy S10 Lite,Blue,Dual Sim,17.02 ,Android 10,Octa Core,2.8,512,8,4G VOLTE,Yes,4500,75.6,162.5,8.1,187,1080 , 2400,32,,48,12,5,,854
+301,Samsung,Galaxy S10 Lite,Black,Dual Sim,17.02 ,Android 10,Octa Core,2.8,512,8,4G VOLTE,Yes,4500,75.6,162.5,8.1,187,1080 , 2400,32,,48,12,5,,854
+302,Samsung,Galaxy J2-2017,gold,Dual Sim,11.94 ,Android Lollipop 5.4.1,Quad Core,1.3,8,1,4G,Yes,2000,69,136.5,8.4,130,540 , 960,2,,5,,,,107
 303,Samsung,Galaxy J7 Pro,Black,Dual Sim,13.97 ,Android Nougat 7,Octa Core,1.6,64,3,4G,Yes,3600,74.7,152.4,7.8,178,1920 , 1080,13,,13,,,,374
 304,Samsung,Galaxy J7 Nxt,Black,Dual Sim,13.97 ,Android Nougat 7,Octa Core,1.6,16,2,4G,Yes,3000,152.4,78.6,7.6,170,1280 , 720,5,,13,,,,214
 305,Samsung,Galaxy J7 Nxt,Gold,Dual Sim,13.97 ,Android Nougat 7,Octa Core,1.6,16,2,4G,Yes,3000,152.4,78.6,7.6,170,1280 , 720,5,,13,,,,196
 306,Infinix,Hot 9 Pro,Violet,Dual Sim,16.76 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.8,165,8.7,185,1600 , 720,8,,48,2,2,,178
-307,Infinix,Hot 9 Pro,Ocean Wave,Dual Sim,16.76 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.8,165,8.7,185,1600 , 720,8,,48,2,2,,178
+307,Infinix,Hot 9 Pro,Blue,Dual Sim,16.76 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.8,165,8.7,185,1600 , 720,8,,48,2,2,,178
 308,Infinix,Hot 9,Violet,Dual Sim,16.76 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.8,165,8.7,185,1600 , 720,8,,13,2,2,,160
-309,Infinix,Hot 9,Ocean Wave,Dual Sim,16.76 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.8,165,8.7,185,1600 , 720,8,,13,2,2,,160
-310,Infinix,Note 5 Stylus,Charcoal Blue,Dual Sim,15.06 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4000,75,158,8.4,190,1080 , 2160,16,,16,,,,196
-311,Infinix,S5 Pro,Forest Green,Dual Sim,16.59 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,4000,76.88,162.5,8.95,194,2340 , 1080,16,,48,2,,,205
+309,Infinix,Hot 9,Blue,Dual Sim,16.76 ,Android 10,Octa Core,2,64,4,4G VOLTE,Yes,5000,76.8,165,8.7,185,1600 , 720,8,,13,2,2,,160
+310,Infinix,Note 5 Stylus,Blue,Dual Sim,15.06 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4000,75,158,8.4,190,1080 , 2160,16,,16,,,,196
+311,Infinix,S5 Pro,Green,Dual Sim,16.59 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,4000,76.88,162.5,8.95,194,2340 , 1080,16,,48,2,,,205
 312,Infinix,S5 Pro,Violet,Dual Sim,16.59 ,Android 10,Octa Core,2.3,64,4,4G VOLTE,Yes,4000,76.88,162.5,8.95,194,2340 , 1080,16,,48,2,,,205
-313,Infinix,Note 5 Stylus,Bordeaux Red,Dual Sim,15.06 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4000,75,158,8.4,190,1080 , 2160,16,,16,,,,196
-314,Infinix,Hot S3X,Tradew Gray,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.4,32,3,4G,Yes,4000,75.3,156.7,8.3,150,1500 , 720,16,,13,2,,,196
-315,Infinix,Hot S3X,Milan Black,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.4,32,3,4G,Yes,4000,75.3,156.7,8.3,150,1500 , 720,16,,13,2,,,196
-316,Infinix,Note 5,Ice Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,137
-317,Infinix,Note 5,Berlin Gray,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,137
-318,Infinix,Hot 7,Midnight Black,Dual Sim,15.72 ,Android Pie 9,Octa Core,2.39,64,4,4G,Yes,4000,74.8,153.9,7.9,159,1500 , 720,13,2,13,2,,,178
-319,Infinix,Hot 7,Mocha Brown,Dual Sim,15.72 ,Android Pie 9,Octa Core,2.39,64,4,4G,Yes,4000,74.8,153.9,7.9,159,1500 , 720,13,2,13,2,,,178
-320,Infinix,Hot 7,Aqua Blue,Dual Sim,15.72 ,Android Pie 9,Octa Core,2.39,64,4,4G,Yes,4000,74.8,153.9,7.9,159,1500 , 720,13,2,13,2,,,178
-321,Infinix,Note 5,Berlin Gray,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,135
-322,Infinix,Hot S3,Topaz Blue,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,64,4,4G VOLTE,Yes,4000,72.85,153,8.4,150,720 , 1440,20,,13,,,,214
-323,Infinix,Hot S3,Sandstone Black,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,64,4,4G VOLTE,Yes,4000,72.85,153,8.4,150,1440 , 720,20,,13,,,,214
-324,Infinix,Hot S3,Blush Gold,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,64,4,4G VOLTE,Yes,4000,72.85,153,8.4,150,720,1440,20,,13,,,,214
+313,Infinix,Note 5 Stylus,Red,Dual Sim,15.06 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4000,75,158,8.4,190,1080 , 2160,16,,16,,,,196
+314,Infinix,Hot S3X,Gray,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.4,32,3,4G,Yes,4000,75.3,156.7,8.3,150,1500 , 720,16,,13,2,,,196
+315,Infinix,Hot S3X,Black,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.4,32,3,4G,Yes,4000,75.3,156.7,8.3,150,1500 , 720,16,,13,2,,,196
+316,Infinix,Note 5,Blue,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,137
+317,Infinix,Note 5,Gray,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,137
+318,Infinix,Hot 7,Black,Dual Sim,15.72 ,Android Pie 9,Octa Core,2.39,64,4,4G,Yes,4000,74.8,153.9,7.9,159,1500 , 720,13,2,13,2,,,178
+319,Infinix,Hot 7,Brown,Dual Sim,15.72 ,Android Pie 9,Octa Core,2.39,64,4,4G,Yes,4000,74.8,153.9,7.9,159,1500 , 720,13,2,13,2,,,178
+320,Infinix,Hot 7,Blue,Dual Sim,15.72 ,Android Pie 9,Octa Core,2.39,64,4,4G,Yes,4000,74.8,153.9,7.9,159,1500 , 720,13,2,13,2,,,178
+321,Infinix,Note 5,Gray,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,135
+322,Infinix,Hot S3,Blue,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,64,4,4G VOLTE,Yes,4000,72.85,153,8.4,150,720 , 1440,20,,13,,,,214
+323,Infinix,Hot S3,Black,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,64,4,4G VOLTE,Yes,4000,72.85,153,8.4,150,1440 , 720,20,,13,,,,214
+324,Infinix,Hot S3,Gold,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,64,4,4G VOLTE,Yes,4000,72.85,153,8.4,150,720,1440,20,,13,,,,214
 325,Infinix,S5 Lite,Violet,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G,Yes,4000,76,164,7.9,178,720 , 1600,16,,16,2,,,151
-326,Infinix,S5 Lite,Quetzal Cyan,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G,Yes,4000,76,164,7.9,178,720 , 1600,16,,16,2,,,151
-327,Infinix,S5 Lite,Midnight Black,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G,Yes,4000,76,164,7.9,178,720 , 1600,16,,16,2,,,151
-328,Infinix,Note 5,Milan Black,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,135
-329,Infinix,Zero 5 Pro,Bronze Gold Black,Dual Sim,15.19 ,Android Nougat 7,Octa Core,2.6,128,6,4G VOLTE,Yes,4350,82.38,166.38,7.95,197,1080 , 1920,16,,12,13,,,356
-330,Infinix,S4,Nebula Blue,Dual Sim,15.77 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,75,156,7.9,155,720 , 1520,32,,13,2,8,,171
-331,Infinix,S4,Twilight Purple,Dual Sim,15.77 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,75,156,7.9,155,720 , 1520,32,,13,2,8,,171
-332,Infinix,S4,Space Gray,Dual Sim,15.77 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,75,156,7.9,155,720 , 1520,32,,13,2,8,,171
-333,Infinix,S5,Quetzal Cyan,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,76,164,7.9,178,720 , 1600,32,,16,5,2,,171
+326,Infinix,S5 Lite,Cyan,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G,Yes,4000,76,164,7.9,178,720 , 1600,16,,16,2,,,151
+327,Infinix,S5 Lite,Black,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G,Yes,4000,76,164,7.9,178,720 , 1600,16,,16,2,,,151
+328,Infinix,Note 5,Black,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,32,3,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,135
+329,Infinix,Zero 5 Pro,Black,Dual Sim,15.19 ,Android Nougat 7,Octa Core,2.6,128,6,4G VOLTE,Yes,4350,82.38,166.38,7.95,197,1080 , 1920,16,,12,13,,,356
+330,Infinix,S4,Blue,Dual Sim,15.77 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,75,156,7.9,155,720 , 1520,32,,13,2,8,,171
+331,Infinix,S4,Purple,Dual Sim,15.77 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,75,156,7.9,155,720 , 1520,32,,13,2,8,,171
+332,Infinix,S4,Gray,Dual Sim,15.77 ,Android Pie 9,Octa Core,2,32,3,4G VOLTE,Yes,4000,75,156,7.9,155,720 , 1520,32,,13,2,8,,171
+333,Infinix,S5,Cyan,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,76,164,7.9,178,720 , 1600,32,,16,5,2,,171
 334,Infinix,S5,Violet,Dual Sim,16.76 ,Android Pie 9,Octa Core,2,64,4,4G VOLTE,Yes,4000,76,164,7.9,178,720 , 1600,32,,16,5,2,,171
-335,Infinix,Hot S3,Blush Gold,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720,1440,20,,13,,,,178
-336,Infinix,Hot S3,Sandstone Black,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720,1440,20,,13,,,,178
-337,Infinix,Hot S3,Topaz Blue,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720 , 1440,20,,13,,,,178
-338,Infinix,Hot S3,Bordeaux Red,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720 , 1440,20,,13,,,,178
-339,Infinix,Note 5,Milan Black,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,137
-340,Infinix,Zero 5,Sandstone Black,Dual Sim,15.19 ,Android Nougat 7,Octa Core,2.6,64,6,4G VOLTE,Yes,4350,82.38,166.38,7.95,197,1080 , 1920,16,,12,13,,,320
-341,Infinix,Zero 5,Bordeaux Red,Dual Sim,15.19 ,Android Nougat 7,Octa Core,2.6,64,6,4G VOLTE,Yes,4350,82.38,166.38,7.95,197,1080 , 1920,16,,12,13,,,320
-342,POCO,F1,Steel Blue,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
-343,POCO,F1,Steel Blue,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
-344,POCO,F1,Graphite Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
-345,POCO,F1,Armoured Edition,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
-346,POCO,F1,Rosso Red,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,64,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,356
-347,POCO,X2,Matrix Purple,Dual Sim,16.94 ,Android 10,Octa Core,2.2,256,8,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,383
-348,POCO,X2,Matrix Purple,Dual Sim,16.94 ,Android 10,Octa Core,2.2,64,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,311
-349,POCO,X2,Atlantis Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,64,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,311
-350,POCO,X2,Phoenix Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
-351,POCO,X2,Atlantis Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
-352,POCO,X2,Atlantis Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,256,8,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,383
-353,POCO,X2,Phoenix Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,256,8,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,383
-354,POCO,X2,Phoenix Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,64,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,311
-355,POCO,X2 Special Edition,Matrix Purple,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
-356,POCO,F1,Rosso Red,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
-357,POCO,F1,Graphite Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
-358,POCO,F1,Rosso Red,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
-359,POCO,F1,Armoured Edition,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
-360,POCO,X2 Special Edition,Atlantis Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
-361,POCO,X2 Special Edition,Phoenix Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
-362,POCO,F1,Steel Blue,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,64,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,356
-363,POCO,F1,Graphite Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,64,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,356
-364,POCO,M2 Pro,Green and Greener,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
-365,POCO,M2 Pro,Green and Greener,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
-366,POCO,M2 Pro,Green and Greener,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,249
-367,POCO,M2 Pro,Out of the Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
-368,POCO,M2 Pro,Two Shades of Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
-369,POCO,M2 Pro,Two Shades of Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
-370,POCO,M2 Pro,Out of the Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
-371,POCO,M2 Pro,Two Shades of Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,249
-372,POCO,M2 Pro,Out of the Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,249
-373,OPPO,A31,Fantasy White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,222
-374,OPPO,A31,Fantasy White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,267
-375,OPPO,A31,Mystery Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,267
-376,OPPO,A31,Mystery Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,222
-377,OPPO,A9 2020,Marine Green,Dual Sim,16.51 ,Android Pie 9,Octa Core,1.8,128,4,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,302
+335,Infinix,Hot S3,Gold,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720,1440,20,,13,,,,178
+336,Infinix,Hot S3,Black,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720,1440,20,,13,,,,178
+337,Infinix,Hot S3,Blue,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720 , 1440,20,,13,,,,178
+338,Infinix,Hot S3,Red,Dual Sim,14.35 ,Android Oreo 8,Octa Core,1.4,32,3,4G VOLTE,Yes,4000,72.85,153,8.4,150,720 , 1440,20,,13,,,,178
+339,Infinix,Note 5,Black,Dual Sim,15.21 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,4500,75.25,158.25,8.65,175,1080 , 2160,16,,12,,,,137
+340,Infinix,Zero 5,Black,Dual Sim,15.19 ,Android Nougat 7,Octa Core,2.6,64,6,4G VOLTE,Yes,4350,82.38,166.38,7.95,197,1080 , 1920,16,,12,13,,,320
+341,Infinix,Zero 5,Red,Dual Sim,15.19 ,Android Nougat 7,Octa Core,2.6,64,6,4G VOLTE,Yes,4350,82.38,166.38,7.95,197,1080 , 1920,16,,12,13,,,320
+342,POCO,F1,Blue,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
+343,POCO,F1,Blue,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
+344,POCO,F1,Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
+345,POCO,F1,Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
+346,POCO,F1,Red,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,64,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,356
+347,POCO,X2,Purple,Dual Sim,16.94 ,Android 10,Octa Core,2.2,256,8,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,383
+348,POCO,X2,Purple,Dual Sim,16.94 ,Android 10,Octa Core,2.2,64,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,311
+349,POCO,X2,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,64,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,311
+350,POCO,X2,Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
+351,POCO,X2,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
+352,POCO,X2,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,256,8,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,383
+353,POCO,X2,Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,256,8,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,383
+354,POCO,X2,Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,64,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,311
+355,POCO,X2 Special Edition,Purple,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
+356,POCO,F1,Red,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
+357,POCO,F1,Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
+358,POCO,F1,Red,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,256,8,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,409
+359,POCO,F1,Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,128,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,338
+360,POCO,X2 Special Edition,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
+361,POCO,X2 Special Edition,Red,Dual Sim,16.94 ,Android 10,Octa Core,2.2,128,6,4G VOLTE,Yes,4500,76.6,165.3,8.79,208,2400 , 1080,20,2,64,8,2,2,329
+362,POCO,F1,Blue,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,64,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,356
+363,POCO,F1,Black,Dual Sim,15.7 ,Android Oreo 8.1,Octa Core,2.8,64,6,4G VOLTE,Yes,4000,75.3,155.5,8.8,180,2160 , 1080,20,,12,5,,,356
+364,POCO,M2 Pro,Green,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
+365,POCO,M2 Pro,Green,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
+366,POCO,M2 Pro,Green,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,249
+367,POCO,M2 Pro,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
+368,POCO,M2 Pro,Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,128,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,303
+369,POCO,M2 Pro,Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
+370,POCO,M2 Pro,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,6,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,267
+371,POCO,M2 Pro,Black,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,249
+372,POCO,M2 Pro,Blue,Dual Sim,16.94 ,Android 10,Octa Core,2.3,64,4,4G,Yes,5000,76.68,165.75,8.8,209,2400 , 1080,16,,48,8,5,2,249
+373,OPPO,A31,White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,222
+374,OPPO,A31,White,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,267
+375,OPPO,A31,Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,128,6,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,267
+376,OPPO,A31,Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.3,64,4,4G VOLTE,Yes,4230,75.5,163.9,8.3,180,1600 , 720,8,,12,2,2,,222
+377,OPPO,A9 2020,Green,Dual Sim,16.51 ,Android Pie 9,Octa Core,1.8,128,4,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,302
 378,OPPO,A12,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,32,3,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,178
 379,OPPO,A12,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,32,3,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,178
 380,OPPO,A5s,Blue,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,32,2,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,160
-381,OPPO,F15,Unicorn White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.1,128,8,4G VOLTE,Yes,4000,73.3,160.2,7.9,172,2400 , 1080,16,,48,8,2,2,338
-382,OPPO,F15,Blazing Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.1,128,8,4G VOLTE,Yes,4000,73.3,160.2,7.9,172,2400 , 1080,16,,48,8,2,2,338
-383,OPPO,A52,Twilight Black,Dual Sim,16.51 ,Android 10,Octa Core,2,128,6,4G VOLTE,Yes,5000,75.5,162,8.9,192,2400 , 1080,16,,12,8,2,2,302
-384,OPPO,A52,Stream White,Dual Sim,16.51 ,Android 10,Octa Core,2,128,6,4G VOLTE,Yes,5000,75.5,162,8.9,192,2400 , 1080,16,,12,8,2,2,302
-385,OPPO,A11K,Deep Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,32,2,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,160
-386,OPPO,A11K,Flowing Silver,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,32,2,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,160
+381,OPPO,F15,White,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.1,128,8,4G VOLTE,Yes,4000,73.3,160.2,7.9,172,2400 , 1080,16,,48,8,2,2,338
+382,OPPO,F15,Blue,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.1,128,8,4G VOLTE,Yes,4000,73.3,160.2,7.9,172,2400 , 1080,16,,48,8,2,2,338
+383,OPPO,A52,Black,Dual Sim,16.51 ,Android 10,Octa Core,2,128,6,4G VOLTE,Yes,5000,75.5,162,8.9,192,2400 , 1080,16,,12,8,2,2,302
+384,OPPO,A52,White,Dual Sim,16.51 ,Android 10,Octa Core,2,128,6,4G VOLTE,Yes,5000,75.5,162,8.9,192,2400 , 1080,16,,12,8,2,2,302
+385,OPPO,A11K,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,32,2,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,160
+386,OPPO,A11K,Silver,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,32,2,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,160
 387,OPPO,A5s,Green,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,64,4,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,213
-388,OPPO,A9 2020,Space Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,1.8,128,8,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,285
-389,OPPO,F15,Lightening Black,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.1,128,8,4G VOLTE,Yes,4000,73.3,160.2,7.9,172,2400 , 1080,16,,48,8,2,2,338
+388,OPPO,A9 2020,Purple,Dual Sim,16.51 ,Android Pie 9,Octa Core,1.8,128,8,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,285
+389,OPPO,F15,Black,Dual Sim,16.26 ,Android Pie 9,Octa Core,2.1,128,8,4G VOLTE,Yes,4000,73.3,160.2,7.9,172,2400 , 1080,16,,48,8,2,2,338
 390,OPPO,A5s,Gold,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,64,4,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,283
-391,OPPO,Reno3 Pro,Sky White,Dual Sim,16.26 ,Android 10,Octa Core,2.2,128,8,4G VOLTE,Yes,4025,73.4,158.8,8.1,175,2400 , 1080,44,2,64,13,8,2,534
-392,OPPO,Reno3 Pro,Auroral Blue,Dual Sim,16.26 ,Android 10,Octa Core,2.2,128,8,4G VOLTE,Yes,4025,73.4,158.8,8.1,175,2400 , 1080,44,2,64,13,8,2,534
-393,OPPO,Reno3 Pro,Midnight Black,Dual Sim,16.26 ,Android 10,Octa Core,2.2,128,8,4G VOLTE,Yes,4025,73.4,158.8,8.1,175,2400 , 1080,44,2,64,13,8,2,534
+391,OPPO,Reno3 Pro,White,Dual Sim,16.26 ,Android 10,Octa Core,2.2,128,8,4G VOLTE,Yes,4025,73.4,158.8,8.1,175,2400 , 1080,44,2,64,13,8,2,534
+392,OPPO,Reno3 Pro,Blue,Dual Sim,16.26 ,Android 10,Octa Core,2.2,128,8,4G VOLTE,Yes,4025,73.4,158.8,8.1,175,2400 , 1080,44,2,64,13,8,2,534
+393,OPPO,Reno3 Pro,Black,Dual Sim,16.26 ,Android 10,Octa Core,2.2,128,8,4G VOLTE,Yes,4025,73.4,158.8,8.1,175,2400 , 1080,44,2,64,13,8,2,534
 394,OPPO,A5s,Black,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,32,2,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,231
-395,OPPO,F11 Pro,Thunder Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,64,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,267
-396,OPPO,Reno 10x Zoom,Ocean Green,Dual Sim,16.76 ,Android Pie 9,Octa Core,2.8,256,8,4G VOLTE,Yes,4065,77.2,162,9.3,215,2340 , 1080,16,,48,13,8,,747
-397,OPPO,Reno2,Ocean Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.2,256,8,4G,Yes,4000,74.3,160,9.5,189,2340 , 1080,16,,48,8,13,2,694
-398,OPPO,Find X,Glacier Blue,Dual Sim,16.26 ,Android Oreo 8.1,Octa Core,2.649,256,8,4G VOLTE,Yes,3730,74.2,156.7,9.6,186,2340 , 1080,25,,16,20,,,1086
-399,OPPO,Find X,Bordeaux Red,Dual Sim,16.26 ,Android Oreo 8.1,Octa Core,2.649,256,8,4G VOLTE,Yes,3730,74.2,156.7,9.6,186,2340 , 1080,25,,16,20,,,1086
-400,OPPO,Reno2 Z,Luminous Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.2,256,8,4G,Yes,4000,75.8,161.8,8.67,195,2340 , 1080,16,,48,8,2,2,534
+395,OPPO,F11 Pro,Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,64,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,267
+396,OPPO,Reno 10x Zoom,Green,Dual Sim,16.76 ,Android Pie 9,Octa Core,2.8,256,8,4G VOLTE,Yes,4065,77.2,162,9.3,215,2340 , 1080,16,,48,13,8,,747
+397,OPPO,Reno2,Blue,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.2,256,8,4G,Yes,4000,74.3,160,9.5,189,2340 , 1080,16,,48,8,13,2,694
+398,OPPO,Find X,Blue,Dual Sim,16.26 ,Android Oreo 8.1,Octa Core,2.649,256,8,4G VOLTE,Yes,3730,74.2,156.7,9.6,186,2340 , 1080,25,,16,20,,,1086
+399,OPPO,Find X,Red,Dual Sim,16.26 ,Android Oreo 8.1,Octa Core,2.649,256,8,4G VOLTE,Yes,3730,74.2,156.7,9.6,186,2340 , 1080,25,,16,20,,,1086
+400,OPPO,Reno2 Z,Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.2,256,8,4G,Yes,4000,75.8,161.8,8.67,195,2340 , 1080,16,,48,8,2,2,534
 401,OPPO,A83,Champagne,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,2.5,64,4,4G VOLTE,Yes,3180,73.1,150.5,7.7,143,1440 , 720,8,,13,,,,258
-402,OPPO,A9 2020,Vanilla Mint,Dual Sim,16.56 ,Android Pie 9,Octa Core,1.8,128,8,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,285
+402,OPPO,A9 2020,Mint,Dual Sim,16.56 ,Android Pie 9,Octa Core,1.8,128,8,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,285
 403,OPPO,A5s,Blue,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,32,3,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,245
 404,OPPO,A5s,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,32,2,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,231
 405,OPPO,A5s,Black,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,32,3,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,169
-406,OPPO,K1,Piano Black,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,6,4G VOLTE,Yes,3600,75.5,158.3,7.4,156,2340 , 1080,25,,16,2,,,338
-407,OPPO,F9 Pro,Sunrise Red,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,6,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,25,,16,2,,,356
-408,OPPO,K1,Astral Blue,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,6,4G VOLTE,Yes,3600,75.5,158.3,7.4,156,2340 , 1080,25,,16,2,,,339
-409,OPPO,F11,Marble Green,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,320
+406,OPPO,K1,Black,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,6,4G VOLTE,Yes,3600,75.5,158.3,7.4,156,2340 , 1080,25,,16,2,,,338
+407,OPPO,F9 Pro,Red,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,6,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,25,,16,2,,,356
+408,OPPO,K1,Blue,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,6,4G VOLTE,Yes,3600,75.5,158.3,7.4,156,2340 , 1080,25,,16,2,,,339
+409,OPPO,F11,Green,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,320
 410,OPPO,A1K,Red,Dual Sim,15.49 ,Android Pie 9,Octa Core,2,32,2,4G VOLTE,Yes,4000,77.35,154.4,8.35,165,720 , 1560,5,,8,,,,151
-411,OPPO,A7,Glaring Gold,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,3,4G VOLTE,Yes,4230,75.4,155.9,8.1,168,1520 , 720,16,,13,2,,,249
-412,OPPO,F9 Pro,Twilight Blue,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,6,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,25,,16,2,,,356
-413,OPPO,K1,Astral Blue,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3600,75.5,158.3,7.4,156,2340 , 1080,25,,16,2,,,349
-414,OPPO,F9 Pro,Starry Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,6,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,25,,16,2,,,376
-415,OPPO,A7,Glaze Blue,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G VOLTE,Yes,4230,75.4,155.9,8.1,168,1520 , 720,16,,13,2,,,312
+411,OPPO,A7,Gold,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,3,4G VOLTE,Yes,4230,75.4,155.9,8.1,168,1520 , 720,16,,13,2,,,249
+412,OPPO,F9 Pro,Blue,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,6,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,25,,16,2,,,356
+413,OPPO,K1,Blue,Dual Sim,16.28 ,Android Oreo 8.1,Octa Core,1.95,64,4,4G VOLTE,Yes,3600,75.5,158.3,7.4,156,2340 , 1080,25,,16,2,,,349
+414,OPPO,F9 Pro,Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,6,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,25,,16,2,,,376
+415,OPPO,A7,Blue,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G VOLTE,Yes,4230,75.4,155.9,8.1,168,1520 , 720,16,,13,2,,,312
 416,OPPO,A5s,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,2.3,32,3,4G VOLTE,Yes,4230,75.4,155.9,8.2,170,1520 , 720,8,,13,2,,,231
 417,OPPO,A3s,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,258
 418,OPPO,A3s,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,16,2,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,169
 419,OPPO,A3s,Purple,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,16,2,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,169
-420,OPPO,A9 2020,Vanilla Mint,Dual Sim,16.56 ,Android Pie 9,Octa Core,1.8,128,4,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,249
+420,OPPO,A9 2020,Mint,Dual Sim,16.56 ,Android Pie 9,Octa Core,1.8,128,4,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,249
 421,OPPO,A12,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,64,4,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,205
 422,OPPO,A12,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,64,4,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,205
-423,OPPO,F11 Pro,Waterfall Grey,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
-424,OPPO,F11 Pro,Thunder Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
+423,OPPO,F11 Pro,Grey,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
+424,OPPO,F11 Pro,Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
 425,OPPO,R17 Pro,Radiant Mist,Dual Sim,16.26 ,Android Oreo 8.1,Octa Core,2.2,128,8,4G,Yes,3700,74.6,157.6,7.9,183,2340 , 1080,25,,12,20,,,562
 426,OPPO,A83,Black,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,2.5,32,3,4G VOLTE,Yes,3180,73.1,150.5,7.7,143,1440 , 720,8,,13,,,,240
 427,OPPO,A83,Red,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,2.5,16,2,4G VOLTE,Yes,3180,73.1,150.5,7.7,143,1440 , 720,8,,13,,,,169
 428,OPPO,F7,Red,Dual Sim,15.82 ,Android Oreo 8.1,Octa Core,2,64,4,4G,Yes,3400,75.3,156,7.8,158,2280 , 1080,25,,16,,,,409
-429,OPPO,F11,Marble Green,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
-430,OPPO,F11,Fluorite Purple,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
-431,OPPO,F11,Jewelry White,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,320
-432,OPPO,F1S,Rose Gold,Dual Sim,13.97 ,Android Lollipop 5.1,Octa Core,1.4,64,4,4G,Yes,3075,76,154.5,7.38,160,1280 , 720,16,,13,,,,338
+429,OPPO,F11,Green,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
+430,OPPO,F11,Purple,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
+431,OPPO,F11,White,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,320
+432,OPPO,F1S,Gold,Dual Sim,13.97 ,Android Lollipop 5.1,Octa Core,1.4,64,4,4G,Yes,3075,76,154.5,7.38,160,1280 , 720,16,,13,,,,338
 433,OPPO,F1S,Grey,Dual Sim,13.97 ,Android Lollipop 5.1,Octa Core,1.4,64,4,4G,Yes,3075,76,154.5,7.38,160,1280 , 720,16,,13,,,,338
 434,OPPO,F1S,Gold,Dual Sim,13.97 ,Android Lollipop 5.1,Octa Core,1.4,64,4,4G VOLTE,Yes,3075,76,154.5,7.38,160,1280 , 720,16,,13,,,,338
 435,OPPO,F1S,Grey,Dual Sim,13.97 ,Android Lollipop 5.1.1,Single Core,1.5,32,3,4G VOLTE,Yes,3075,154.5,7.38,76,160,720 , 1280,16,,13,,,,213
 436,OPPO,A71k,Blue,Dual Sim,13.21 ,Android Nougat 7.1,Octa Core,1.8,16,3,4G VOLTE,Yes,3000,73.8,148.1,7.6,137,1280 , 720,5,,13,,,,151
 437,OPPO,A3s,Purple,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,32,3,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,231
-438,OPPO,F3,Rose Gold,Dual Sim,13.97 ,Android Marshmallow 6,Octa Core,1.5,64,4,4G,Yes,3200,75.2,153.3,7.3,153,1920 , 1080,16,8,13,,,,320
-439,OPPO,A5,Diamond Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,32,4,4G VOLTE,Yes,4230,75.6,156.1,8.2,170,1520 , 720,8,,13,2,,,240
+438,OPPO,F3,Gold,Dual Sim,13.97 ,Android Marshmallow 6,Octa Core,1.5,64,4,4G,Yes,3200,75.2,153.3,7.3,153,1920 , 1080,16,8,13,,,,320
+439,OPPO,A5,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,32,4,4G VOLTE,Yes,4230,75.6,156.1,8.2,170,1520 , 720,8,,13,2,,,240
 440,OPPO,A83,Red,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,2.5,64,4,4G VOLTE,Yes,3180,73.1,150.5,7.7,143,1440 , 720,8,,13,,,,249
-441,OPPO,F9,Stellar Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,16,,16,2,,,303
+441,OPPO,F9,Purple,Dual Sim,16.0 ,Android Oreo 8.1,Octa Core,2,64,4,4G VOLTE,Yes,3500,74,156.7,7.99,169,2340 , 1080,16,,16,2,,,303
 442,OPPO,A3s,Purple,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,267
 443,OPPO,A3s,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,64,4,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,258
 444,OPPO,A3s,Red,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,16,2,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,169
 445,OPPO,A3s,Purple,Dual Sim,15.75 ,Android Oreo 8.1,Octa Core,1.8,16,2,4G,Yes,4230,75.6,156.2,8.2,168,1520 , 720,8,,13,2,,,169
-446,OPPO,Reno 10x Zoom,Jet Black,Dual Sim,16.76 ,Android Pie 9,Octa Core,2.8,256,8,4G VOLTE,Yes,4065,77.2,162,9.3,215,2340 , 1080,16,,48,13,8,,747
-447,OPPO,Reno 10x Zoom,Jet Black,Dual Sim,16.76 ,Android Pie 9,Octa Core,2.8,128,6,4G VOLTE,Yes,4065,77.2,162,9.3,215,2340 , 1080,16,,48,13,8,,694
-448,OPPO,A9 2020,Vanilla Mint,Dual Sim,16.56 ,Android Pie 9,Octa Core,1.8,128,4,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,249
+446,OPPO,Reno 10x Zoom,Black,Dual Sim,16.76 ,Android Pie 9,Octa Core,2.8,256,8,4G VOLTE,Yes,4065,77.2,162,9.3,215,2340 , 1080,16,,48,13,8,,747
+447,OPPO,Reno 10x Zoom,Black,Dual Sim,16.76 ,Android Pie 9,Octa Core,2.8,128,6,4G VOLTE,Yes,4065,77.2,162,9.3,215,2340 , 1080,16,,48,13,8,,694
+448,OPPO,A9 2020,Mint,Dual Sim,16.56 ,Android Pie 9,Octa Core,1.8,128,4,4G VOLTE,Yes,5000,75.6,163.6,9.1,195,1600 , 720,16,,48,8,2,2,249
 449,OPPO,A12,Black,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,64,4,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,205
 450,OPPO,A12,Blue,Dual Sim,15.8 ,Android Pie 9,Octa Core,1.8,64,4,4G VOLTE,Yes,4230,75.5,155.9,8.3,165,1520 , 720,5,,13,2,,,205
-451,OPPO,F11 Pro,Waterfall Grey,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
-452,OPPO,F11 Pro,Thunder Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
+451,OPPO,F11 Pro,Grey,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
+452,OPPO,F11 Pro,Black,Dual Sim,16.51 ,Android Pie 9,Octa Core,2.1,128,6,4G VOLTE,Yes,4000,76.1,161.3,8.8,190,2340 , 1080,16,,48,5,,,302
 453,OPPO,R17 Pro,Radiant Mist,Dual Sim,16.26 ,Android Oreo 8.1,Octa Core,2.2,128,8,4G,Yes,3700,74.6,157.6,7.9,183,2340 , 1080,25,,12,20,,,562
 454,OPPO,A83,Black,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,2.5,32,3,4G VOLTE,Yes,3180,73.1,150.5,7.7,143,1440 , 720,8,,13,,,,240
 455,OPPO,A83,Red,Dual Sim,14.48 ,Android Nougat 7.1,Octa Core,2.5,16,2,4G VOLTE,Yes,3180,73.1,150.5,7.7,143,1440 , 720,8,,13,,,,169
 456,OPPO,F7,Red,Dual Sim,15.82 ,Android Oreo 8.1,Octa Core,2,64,4,4G,Yes,3400,75.3,156,7.8,158,2280 , 1080,25,,16,,,,409
-457,OPPO,F11,Marble Green,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
-458,OPPO,F11,Fluorite Purple,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
+457,OPPO,F11,Green,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
+458,OPPO,F11,Purple,Dual Sim,16.59 ,Android Pie 9,Octa Core,2.1,128,4,4G VOLTE,Yes,4020,76.1,162,8.3,188,1080 , 2340,16,,48,5,,,249
