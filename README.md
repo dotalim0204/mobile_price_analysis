@@ -11,7 +11,7 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 
 ## Tech Stack
 
-## Files Expalination? 
+## Files Explaination? 
 
 ## Libraries
 
