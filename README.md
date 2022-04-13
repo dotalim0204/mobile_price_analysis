@@ -1,4 +1,4 @@
-# Welcome to SC1015-Grp_8-Proj repository
+# Welcome to mobile_price_analysis repository
 
 [pic]
 
