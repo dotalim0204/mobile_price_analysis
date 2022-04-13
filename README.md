@@ -2,6 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/50509341/163121347-e1b45718-4e46-417e-8f01-5ed60a8bf1eb.png)
 
+
+## Contributors
+
+- @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
+- @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
+- @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
+
 ## About
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
@@ -11,13 +18,12 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 3. [Feature Engineering](Feature%20Engineering.ipynb)
 4. [Machine Learning](Machine%20Learning.ipynb)
 
-## Contributors
+### Datasets Folder
+Contains three datasets used in this project.
 
-- @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
-- @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
-- @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
-
-## Files Explaination
+1. mobile_data_data.csv - Raw dataset from kaggle
+2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
+3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
 
 ## Libraries
 
