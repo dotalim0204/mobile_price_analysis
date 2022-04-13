@@ -47,3 +47,10 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 ## Conclusion
 
 ## References
+- <https://slidesgo.com/theme/electronic-circuit-style-cv>
+- <https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction>
+- <https://www.statista.com/statistics/494598/smartphone-users-in-singapore/>
+- <https://scikit-learn.org/stable/modules/model_evaluation.html/>
+- <https://www.xe.com/currencyconverter/convert/?Amount=1&From=INR&To=SGD>
+- <https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/>
+- <https://vitalflux.com/mean-square-error-r-squared-which-one-to-use/>
