@@ -6,10 +6,10 @@
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Preprocessing](?)
-2. [Data Visualization](?)
-3. [Feature Engineering](?)
-4. [Machine Learning](?)
+1. [Data Preprocessing](Data Preprocessing.ipynb)
+2. [Data Visualization](Exploratory Data Analysis.ipynb)
+3. [Feature Engineering](Feature Engineering.ipynb)
+4. [Machine Learning](Machine Learning.ipynb)
 
 ## Contributors
 
