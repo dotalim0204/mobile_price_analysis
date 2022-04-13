@@ -11,27 +11,35 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 3. [Feature Engineering](?)
 4. [Machine Learning](?)
 
-## Tech Stack
-
-## Files Explaination? 
-
-## Libraries
-
 ## Contributors
 
 - @dotalim0204 - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
 - @HLeong12345 - Data Visualization, Slides, Script
 - @limweilun - Machine Learning, Slides, Script, Video
 
-## Problem Definition
+## Tech Stack
 
-- 
+## Files Explaination? 
+
+## Libraries
+
+- Pandas
+- RegEx
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
 
 ## Models Used
 
 1. Linear Regression
 2. Random Forest Regressor
 3. GridSearchCV
+
+## Problem Definition
+
+- 
+
 
 
 ## What did we learn from this project?
