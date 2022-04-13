@@ -14,12 +14,10 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 ## Contributors
 
 - @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
-- @HLeong12345 () - Data Visualization, Slides, Script
+- @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
 - @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
 
-## Tech Stack
-
-## Files Explaination? 
+## Files Explaination
 
 ## Libraries
 
