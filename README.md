@@ -46,12 +46,19 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 
 - Handling messy dataset
 - Fully utilize Regular Expression to clean and format our data
-- Characteristics of different brands of mobile phone
+- Characteristics of different brands of mobile phones
 - One-hot encoding for both ordinal and nominal variables
 - RandomForestRegressor and GridSearchCV from sklearn
 - Collaborating using GitHub
 
 ## Conclusion
+
+- Speeds (Ram Size, GPU Speed, etc.) are usually the most important factors for mobile price
+- Some mobile brands have low specs but higher prices, perhaps those brands are more popular
+- Linear Regression isn't really useful
+- We are able to predict the mobile price accurately with less variables using RandomForestRegressor and GridSearchCV, but not Linear Regression
+- GridSearchCV is able to find the best hyperparameter for RandomForestRegressor, results in highest accuracy
+- It is possible to predict mobile price when given sufficient enough features
 
 ## References
 - <https://slidesgo.com/theme/electronic-circuit-style-cv>
