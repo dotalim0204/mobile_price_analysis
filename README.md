@@ -6,11 +6,17 @@
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Preprocessing](Data%20Preprocessing.ipynb) 
-2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb)
-3. [Feature Engineering](Feature%20Engineering.ipynb)
-4. [Machine Learning](Machine%20Learning.ipynb)
+1. [Data Preprocessing](Data%20Preprocessing.ipynb) <br> 
+2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb) <br> 
+3. [Feature Engineering](Feature%20Engineering.ipynb) <br> Used Linear Regression, Random Forest Regressor & GridsearchCV. Compared the performance of the model before and after feature selection.
+4. [Machine Learning](Machine%20Learning.ipynb) <br> 
 
+### Datasets Folder
+Contains three datasets used in this project
+
+1. mobile_data_data.csv - Raw dataset from kaggle
+2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
+3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
 
 ## Contributors
 
@@ -32,26 +38,6 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 1. Linear Regression
 2. Random Forest Regressor
 3. GridSearchCV
-
-## File Details
-### Jupyter Notebook #1: Data Preprocessing
-?
-
-### Jupyter Notebook #2: Data Visualization
-?
-
-### Jupyter Notebook #3: Feature Engineering
-Used Linear Regression, Random Forest Regressor & GridsearchCV. Compared the performance of the model before and after feature selection.
-
-### Jupyter Notebook #4: Machine Learning
-?
-
-### Datasets Folder
-Contains three datasets used in this project
-
-1. mobile_data_data.csv - Raw dataset from kaggle
-2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
-3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
 
 ## Problem Definition
 
