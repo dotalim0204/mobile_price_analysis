@@ -44,6 +44,13 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 
 ## What did we learn from this project?
 
+- Handling messy dataset
+- Fully utilize Regular Expression to clean and format our data
+- Characteristics of different brands of mobile phone
+- One-hot encoding for both ordinal and nominal variables
+- RandomForestRegressor and GridSearchCV from sklearn
+- Collaborating using GitHub
+
 ## Conclusion
 
 ## References
