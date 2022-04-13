@@ -50,10 +50,10 @@ Contains three datasets used in this project.
 
 - Handling messy dataset
 - Fully utilize Regular Expression to clean and format our data
+- Analyze the variables and their relationships from graph
 - Characteristics of different brands of mobile phones
 - One-hot encoding for both ordinal and nominal variables
 - RandomForestRegressor and GridSearchCV from sklearn
-- Collaborating using GitHub
 
 ## Conclusion
 
