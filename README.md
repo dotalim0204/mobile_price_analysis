@@ -2,28 +2,21 @@
 
 ![image](https://user-images.githubusercontent.com/50509341/163121347-e1b45718-4e46-417e-8f01-5ed60a8bf1eb.png)
 
+## About
+
+This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
+
+1. [Data Preprocessing](Data%20Preprocessing.ipynb) 
+2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb)
+3. [Feature Engineering](Feature%20Engineering.ipynb)
+4. [Machine Learning](Machine%20Learning.ipynb)
+
 
 ## Contributors
 
 - @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
 - @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
 - @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
-
-## About
-
-This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
-
-1. [Data Preprocessing](Data%20Preprocessing.ipynb) - ?
-2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb) - ?
-3. [Feature Engineering](Feature%20Engineering.ipynb) - ?
-4. [Machine Learning](Machine%20Learning.ipynb) - ?
-
-### Datasets Folder
-Contains three datasets used in this project.
-
-1. mobile_data_data.csv - Raw dataset from kaggle
-2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
-3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
 
 ## Libraries
 
@@ -40,6 +33,26 @@ Contains three datasets used in this project.
 2. Random Forest Regressor
 3. GridSearchCV
 
+## File Details
+### Jupyter Notebook #1: Data Preprocessing
+?
+
+### Jupyter Notebook #2: Data Visualization
+?
+
+### Jupyter Notebook #3: Feature Engineering
+Used Linear Regression, Random Forest Regressor & GridsearchCV. Compared the performance of the model before and after feature selection.
+
+### Jupyter Notebook #4: Machine Learning
+?
+
+### Datasets Folder
+Contains three datasets used in this project
+
+1. mobile_data_data.csv - Raw dataset from kaggle
+2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
+3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
+
 ## Problem Definition
 
 - How to predict mobile price using given features?
@@ -53,15 +66,15 @@ Contains three datasets used in this project.
 - Analyze the variables and their relationships from graph
 - Characteristics of different brands of mobile phones
 - One-hot encoding for both ordinal and nominal variables
-- RandomForestRegressor and GridSearchCV from sklearn
+- Random Forest Regressor and GridSearchCV from sklearn
 
 ## Conclusion
 
-- Speeds (Ram Size, GPU Speed, etc.) are usually the most important factors for mobile price
+- Specs related to running speed (Ram Size, GPU Speed, etc.) are usually the most important factors in predicting mobile price
 - Some mobile brands have low specs but higher prices, perhaps those brands are more popular
 - Linear Regression isn't really useful
-- We are able to predict the mobile price accurately with less variables using RandomForestRegressor and GridSearchCV, but not Linear Regression
-- GridSearchCV is able to find the best hyperparameter for RandomForestRegressor, results in highest accuracy
+- We are able to predict the mobile price accurately with less variables using Random Forest Regressor and GridSearchCV, but not Linear Regression
+- GridSearchCV is able to find the best hyperparameter for Random Forest Regressor, results in highest accuracy
 - It is possible to predict mobile price when given sufficient enough features
 
 ## References
