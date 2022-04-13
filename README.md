@@ -1,6 +1,6 @@
 # Welcome to mobile_price_analysis repository
 
-[pic]
+![image](https://user-images.githubusercontent.com/50509341/163121347-e1b45718-4e46-417e-8f01-5ed60a8bf1eb.png)
 
 ## About
 
@@ -38,8 +38,8 @@ This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by 
 
 ## Problem Definition
 
-- 
-
+- How to predict mobile price using given features?
+- Which model would be the best to solve this problem?
 
 
 ## What did we learn from this project?
