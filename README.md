@@ -1,5 +1,7 @@
 # Welcome to SC1015-Grp_8-Proj repository
 
+[pic]
+
 ## About
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
