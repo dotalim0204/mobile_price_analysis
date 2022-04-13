@@ -35,9 +35,9 @@ Contains three datasets used in this project
 
 ## Models Used
 
-1. Linear Regression
-2. Random Forest Regressor
-3. GridSearchCV
+- Linear Regression
+- Random Forest Regressor
+- GridSearchCV
 
 ## Problem Definition
 
