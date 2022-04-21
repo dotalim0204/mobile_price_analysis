@@ -66,7 +66,7 @@ Contains the powerpoint slides which provide a quick summary of our project. It 
 - @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
 - @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
 - @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
-- 
+
 ## References
 - <https://slidesgo.com/theme/electronic-circuit-style-cv>
 - <https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction>
