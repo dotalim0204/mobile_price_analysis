@@ -51,6 +51,7 @@ Contains three datasets used in this project
 - Fully utilize Regular Expression to clean and format our data
 - Analyze the variables and their relationships from graph
 - Characteristics of different brands of mobile phones
+- How to work on GitHub
 - One-hot encoding for both ordinal and nominal variables
 - Random Forest Regressor and GridSearchCV from sklearn
 
