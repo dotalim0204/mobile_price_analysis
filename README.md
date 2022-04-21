@@ -6,10 +6,10 @@
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Preprocessing](Data%20Preprocessing.ipynb) <br>Used Regular Expression to format and clean the data, split several columns and corrected errors that were made during the cleaning process.<br><br>
-2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb) <br>Used seaborn and matplotlib as our visualization tools. Explored each variable individually, discovered their relationships with respect to mobile price, as well as observed some characteristics and patterns of different mobile brands.<br><br>
-3. [Feature Engineering](Feature%20Engineering.ipynb) <br> Removed some useless variables (For example, categorical variables that contain only 1 category), and some extremely odd outliers after EDA. Used one-hot encoding on categorical variables in order to fit them into our models. <br><br>
-4. [Machine Learning](Machine%20Learning.ipynb) <br> Used Linear Regression, Random Forest Regressor & GridsearchCV. Compared the performance of the model before and after feature selection, using R^2 and MSE as our metrics, and plot the graph of Predicted Value against True Value as well.
+1. [Data Preprocessing](Data%20Preprocessing.ipynb) <br>Used Regular Expression to format and clean the data, split several columns and corrected errors that were made during the cleaning process. More details in the notebook.<br><br>
+2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb) <br>Used seaborn and matplotlib as our visualization tools. Explored each variable individually, discovered their relationships with respect to mobile price, as well as observed some characteristics and patterns of different mobile brands. More details in the notebook.<br><br>
+3. [Feature Engineering](Feature%20Engineering.ipynb) <br> Removed some useless variables (For example, categorical variables that contain only 1 category), and some extremely odd outliers after EDA. Used one-hot encoding on categorical variables in order to fit them into our models. More details in the notebook.<br><br>
+4. [Machine Learning](Machine%20Learning.ipynb) <br> Used Linear Regression, Random Forest Regressor & GridsearchCV. For Random Forest Regressor, we use trial and error to find the seemingly best hyperparameter. For GridSearchCV, we used a more systematic way to find the optimal solution. Compared the performance of the model before and after feature selection, using R^2 and MSE as our metrics, and plot the graph of Predicted Value against True Value as well. More details in the notebook.
 
 ### Datasets Folder
 Contains three datasets used in this project
