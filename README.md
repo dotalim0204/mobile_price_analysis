@@ -2,26 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/50509341/163121347-e1b45718-4e46-417e-8f01-5ed60a8bf1eb.png)
 
-## Libraries
-
-- Pandas
-- RegEx
-- NumPy
-- Seaborn
-- Matplotlib
-- Scikit-learn
-
-## Models Used
-
-- Linear Regression
-- Random Forest Regressor
-- GridSearchCV
-
 ## Problem Definition
 
 - How to predict mobile price using given features?
 - Which model would be the best to solve this problem?
-
 
 ## About
 
@@ -38,6 +22,22 @@ Contains three datasets used in this project
 1. mobile_data_data.csv - Raw dataset from kaggle
 2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
 3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
+
+### Libraries
+
+- Pandas
+- RegEx
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
+
+### Models Used
+
+- Linear Regression
+- Random Forest Regressor
+- GridSearchCV
+
 
 ## What did we learn from this project?
 
