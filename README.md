@@ -2,6 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/50509341/163121347-e1b45718-4e46-417e-8f01-5ed60a8bf1eb.png)
 
+## Problem Definition
+
+- How to predict mobile price using given features?
+- Which model would be the best to solve this problem?
+
 ## About
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
@@ -35,12 +40,6 @@ Contains the powerpoint slides which provide a quick summary of our project. It 
 - Linear Regression
 - Random Forest Regressor
 - GridSearchCV
-
-
-## Problem Definition
-
-- How to predict mobile price using given features?
-- Which model would be the best to solve this problem?
 
 ## What did we learn from this project?
 
