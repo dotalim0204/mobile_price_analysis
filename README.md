@@ -3,9 +3,7 @@
 ![image](https://user-images.githubusercontent.com/50509341/163121347-e1b45718-4e46-417e-8f01-5ed60a8bf1eb.png)
 
 ## Problem Definition
-
-- How to predict mobile price using given features?
-- Which model would be the best to solve this problem?
+How to predict mobile price using given features? And most importantly, which model would be the best to solve this problem?
 
 ## About
 
