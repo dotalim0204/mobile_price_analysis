@@ -38,7 +38,7 @@ Contains three datasets used in this project
 
 - How to predict mobile price using given features?
 - Which model would be the best to solve this problem?
-- 
+
 ## What did we learn from this project?
 
 - Handling messy dataset
