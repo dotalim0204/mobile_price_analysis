@@ -18,6 +18,9 @@ Contains three datasets used in this project
 2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
 3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
 
+### Slides Folder
+Contains the powerpoint slides which provide a quick summary of our project. It covers our practical motivation for this project, the overall aim, data extraction and preparation, our analysis on the data and some justifications, feature engineering, machine learning using different models, data driven insights, as well as the conclusions and recommendations we draw from our work.
+
 ## Libraries
 
 - Pandas
