@@ -18,12 +18,6 @@ Contains three datasets used in this project
 2. mobile_data_new.csv - Dataset after Pre-processing and used for EDA
 3. mobile_price_final.csv - Dataset after Feature Engineering and used for Machine Learning
 
-## Contributors
-
-- @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
-- @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
-- @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
-
 ## Libraries
 
 - Pandas
@@ -64,6 +58,12 @@ Contains three datasets used in this project
 - GridSearchCV is able to find the best hyperparameter for Random Forest Regressor, results in highest accuracy
 - It is possible to predict mobile price when given sufficient enough features
 
+## Contributors
+
+- @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
+- @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
+- @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
+- 
 ## References
 - <https://slidesgo.com/theme/electronic-circuit-style-cv>
 - <https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction>
