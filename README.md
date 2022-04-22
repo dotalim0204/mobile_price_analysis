@@ -60,9 +60,9 @@ Contains the powerpoint slides which provide a quick summary of our project. It 
 
 ## Contributors
 
-- @dotalim0204 (U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
-- @HLeong12345 (U2120932C) - Data Visualization, Slides, Script
-- @limweilun (U2120218G) - Machine Learning, Slides, Script, Video
+- @dotalim0204 (Lim Jun Hern, U2120981B) - Data Preprocessing, Feature Engineering, Machine Learning, Slides, Script
+- @HLeong12345 (Leong Hong Yi, U2120932C) - Data Visualization, Slides, Script
+- @limweilun (Lim Wei Lun, U2120218G) - Machine Learning, Slides, Script, Video
 
 ## References
 - <https://slidesgo.com/theme/electronic-circuit-style-cv>
