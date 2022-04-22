@@ -9,10 +9,10 @@ How to predict mobile price using given features? And most importantly, which mo
 
 This is a Mini Project for SC1015 which focuses on mobile price from [Kaggle by manishkc06](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Preprocessing](Data%20Preprocessing.ipynb) <br>As the raw dataset was extremely messy, we learnt and used Regular Expression to format and clean the data, split several columns which contains too much information and corrected errors that were made during the cleaning process. More details in the notebook.<br><br>
-2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb) <br>Used seaborn and matplotlib as our visualization tools. Explored each variable individually, discovered their relationships with respect to mobile price, as well as observed some characteristics and patterns of different mobile brands. More details in the notebook.<br><br>
-3. [Feature Engineering](Feature%20Engineering.ipynb) <br> Removed some useless variables (For example, categorical variables that contain only 1 category), and some extremely odd outliers based on our observation in EDA. Used one-hot encoding on categorical variables in order to fit them into our models. More details in the notebook.<br><br>
-4. [Machine Learning](Machine%20Learning.ipynb) <br> Used Linear Regression, Random Forest Regressor & GridsearchCV. For Random Forest Regressor, we used trial and error to find the seemingly best hyperparameter. For GridSearchCV, we used a more systematic way to find the optimal solution. Compared the performance of the model before and after feature selection, using R^2 and MSE as our metrics, and plot the graph of Predicted Value against True Value as well. More details in the notebook.
+1. [Data Preprocessing](Data%20Preprocessing.ipynb) <br>As the raw dataset was extremely messy, we learnt and used Regular Expression to format and clean the data, split several columns which contained too much information and corrected errors that were made during the cleaning process. More details in the notebook.<br><br>
+2. [Data Visualization](Exploratory%20Data%20Analysis.ipynb) <br>Used seaborn and matplotlib as our visualization tools. We explored each variable individually and found some variables with extreme values or null values. Besides, we also discovered the relationships of those variables with respect to mobile price, and we found out that for categorical variables, although their relationships with mobile price might be implicit, but they became explicit if we partition them in a different way. We also explored the relationships of different variables other than mobile price, observed some characteristics and patterns of different mobile brands and derived some data driven insights. More details in the notebook.<br><br>
+3. [Feature Engineering](Feature%20Engineering.ipynb) <br> We removed some useless variables, such as those categorical variables that contained only 1 category. During the EDA process, we found some data have extremely high depth, we proceeded to remove them in feature engineering. In order to fit the data into our model, we used one-hot encoding for both nominal and ordinal categorical variables. Lastly, we rearranged the columns. More details in the notebook.<br><br>
+4. [Machine Learning](Machine%20Learning.ipynb) <br> Used Linear Regression, Random Forest Regressor & GridsearchCV as our tools. Linear Regression is simplier compared to other methods. For Random Forest Regressor, we used trial and error to find the seemingly best hyperparameter. Although running GridSearchCV took us a lot of time, we achieved the best performance by using this method. We compared the performance of the model by using R^2 (higher better) and MSE (lower better) as our metrics, and plotted the graph of Predicted Value against True Value to see whether the dots fit well on the line. We also did the machine learning process twice, using the dataset before and after feature selection, and compared the change of the performance. More details in the notebook.
 
 ### Datasets Folder
 Contains three datasets used in this project
@@ -52,11 +52,11 @@ Contains the powerpoint slides which provide a quick summary of our project. It 
 ## Conclusion
 
 - Specs related to running speed (Ram Size, GPU Speed, etc.) are usually the most important factors in predicting mobile price
-- Some mobile brands have low specs but higher prices, perhaps those brands are more popular
-- Linear Regression isn't really useful to solve this problem
-- We are able to predict the mobile price accurately with less variables using Random Forest Regressor and GridSearchCV, but not Linear Regression
-- GridSearchCV is able to find the best hyperparameter for Random Forest Regressor, results in highest accuracy
-- It is possible to predict mobile price when given sufficient enough features
+- Some mobile brands have low specs but higher prices, perhaps it is due to their popularity
+- Linear Regression isn't really useful especially after feature selection
+- GridSearchCV is able to find the best hyperparameter for Random Forest Regressor in a more systematic way, which results in the best performance
+- It is possible to predict mobile price using the features in our dataset
+- In the future, we may add more features, such as prioritise smartphone features according to lifestyle choices, or recommend popular phone models for users with similar needs
 
 ## Contributors
 
